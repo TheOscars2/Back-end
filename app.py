@@ -84,7 +84,7 @@ def savePlu(code, item):
 def getPlu(code):
     plu = readPLU()
     if code in plu:
-        return plu[code]
+        return plu[code].lower()
     else:
         return "error"
 
