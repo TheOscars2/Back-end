@@ -35,5 +35,10 @@ FLASK_APP=app.py flask run --port 4000;
 
 # Reformat files
 ```
-autopep8 -i -a -a -a app.py;
+autopep8 -i -a -a -a *.py;
+```
+
+# To run via gunicorn
+```
+gunicorn --bind 0.0.0.0:4000 wsgi
 ```
