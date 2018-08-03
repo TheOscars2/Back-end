@@ -2,6 +2,29 @@
   "recipes": [
     {
       "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 586690,
+      "imageUrl": "https://spoonacular.com/recipeImages/586690-556x370.jpg",
+      "ingredients": [
+        "1.0  of carrot",
+        "2.0 tablespoons of fresh parsley",
+        "2.0 ounces of gorgonzola",
+        "2.0 tablespoons of olive oil",
+        "6.0  of onions",
+        "2.0 tablespoons of pine nuts",
+        "0.25 cup of quinoa",
+        "0.25 cup of water"
+      ],
+      "instructions": [
+        "Heat your oven to 350\u00baF.Peel the onions and slice off the ends.",
+        "Cut each onion in half, crosswise through the widest part. Arrange the onions so that the wider end (what used to be the middle) faces up; use a paring knife to carefully hollow out the center each onion half, leaving about \u00bd-inch around the edges. Finely chop the onion scraps and set aside."
+      ],
+      "name": "Roast Onions w/Gorgonzola + Pine Nuts",
+      "sourceLink": "http://www.healthy-delicious.com/2014/01/roast-onions-gorgonzola-pine-nuts/",
+      "sourceName": "Healthy Delicious"
+    },
+    {
+      "cookTimeHours": 0,
       "cookTimeMinutes": 10,
       "id": 601724,
       "imageUrl": "https://spoonacular.com/recipeImages/601724-556x370.jpg",
@@ -458,29 +481,6 @@
       "name": "Rugelach",
       "sourceLink": "http://www.browneyedbaker.com/2010/01/05/rugelach/",
       "sourceName": "Brown Eyed Baker"
-    },
-    {
-      "cookTimeHours": 0,
-      "cookTimeMinutes": 45,
-      "id": 586690,
-      "imageUrl": "https://spoonacular.com/recipeImages/586690-556x370.jpg",
-      "ingredients": [
-        "1.0  of carrot",
-        "2.0 tablespoons of fresh parsley",
-        "2.0 ounces of gorgonzola",
-        "2.0 tablespoons of olive oil",
-        "6.0  of onions",
-        "2.0 tablespoons of pine nuts",
-        "0.25 cup of quinoa",
-        "0.25 cup of water"
-      ],
-      "instructions": [
-        "Heat your oven to 350\u00baF.Peel the onions and slice off the ends.",
-        "Cut each onion in half, crosswise through the widest part. Arrange the onions so that the wider end (what used to be the middle) faces up; use a paring knife to carefully hollow out the center each onion half, leaving about \u00bd-inch around the edges. Finely chop the onion scraps and set aside."
-      ],
-      "name": "Roast Onions w/Gorgonzola + Pine Nuts",
-      "sourceLink": "http://www.healthy-delicious.com/2014/01/roast-onions-gorgonzola-pine-nuts/",
-      "sourceName": "Healthy Delicious"
     },
     {
       "cookTimeHours": 1,
@@ -7671,6 +7671,2948 @@
       "name": "Easy Taco Skillet Dinner",
       "sourceLink": "http://www.restlesschipotle.com/2012/08/easy-taco-skillet-dinner/",
       "sourceName": "Restless Chipotle"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 793961,
+      "imageUrl": "https://spoonacular.com/recipeImages/793961-556x370.jpg",
+      "ingredients": [
+        "1.0 cup of barbecue sauce",
+        "1.0 cup of chicken",
+        "0.5 cup of corn kernels",
+        "0.5 teaspoon of ground pepper",
+        "0.5 teaspoon of sea salt",
+        "2.0 cups of shredded cheddar cheese",
+        "8.0  of tortillas"
+      ],
+      "instructions": [
+        "In a small pan, heat the chicken with the BBQ sauce, corn, salt, and pepper. (You could also heat it in the microwave.) Set aside.",
+        "Place tortillas, one or two at a time, on a griddle or pan.",
+        "Spread a handful of cheese and some of the chicken mixture over each tortilla.Top with another tortilla, and carefully flip the quesadillas to brown both sides and melt the cheese.",
+        "Cut into triangles and serve with sour cream or additional barbecue sauce if desired."
+      ],
+      "name": "BBQ Chicken Quesadillas",
+      "sourceLink": "http://wearychef.com/bbq-chicken-quesadillas/",
+      "sourceName": "Weary Chef"
+    },
+    {
+      "cookTimeHours": 1,
+      "cookTimeMinutes": 0,
+      "id": 497895,
+      "imageUrl": "https://spoonacular.com/recipeImages/497895-556x370.jpg",
+      "ingredients": [
+        "1.0 TB of agave",
+        "1.0 oz of beef stew meat",
+        "0.25 tsp of black pepper",
+        "4.0 servings of canola oil",
+        "3.0 cloves of garlic",
+        "1.0 TB of granulated sugar",
+        "1.0 TB of mirin",
+        "1.0 pound of rib eye",
+        "1.0 TB of sesame oil",
+        "0.25 cups of tamari"
+      ],
+      "instructions": [
+        "Stir together tamari, sesame oil, minced garlic, agave (or honey), sugar, mirin, and pepper.",
+        "Mix well until the sugar is well dissolved.",
+        "Place thinly-sliced beef into a large mixing bowl or a large Ziploc bag for easy cleanup.",
+        "Add prepared marinade from step 1, to the beef.",
+        "Mix well. You can use your hands to massage the meat to ensure that the marinade is absorbed by the meat.Cover tightly. Marinate 30 minutes \u2013 1 hour in the refrigerator.",
+        "Heat a grill pan or a skillet on medium-high heat.",
+        "Add canola oil to coat the pan/skillet.",
+        "Remove the beef from the marinade and grill until nicely browned. Don\u2019t overcrowd the pan/skillet. Overcrowding will result in lowering of the temperature of the cooking surface; this will result in boiling or steaming of the meat. On moderately high heat, the meat should brown very quickly \u2013 within minutes.",
+        "Garnish with chopped scallions and/or toasted sesame seeds if desired.",
+        "Serve hot with steamed rice."
+      ],
+      "name": "GuestPost: Bulgogi",
+      "sourceLink": "http://www.justasdelish.com/guestpost-bulgogi/",
+      "sourceName": "Just as Delish"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 18,
+      "id": 214073,
+      "imageUrl": "https://spoonacular.com/recipeImages/214073-556x370.jpg",
+      "ingredients": [
+        "4.0  of chicken breasts",
+        "150.0 ml of chicken stock",
+        "1.0 bunch of coriander",
+        "1.0  of garlic clove",
+        "0.5  of ginger root",
+        "200.0 g of greek yogurt",
+        "5.0 tbsp of peanut butter",
+        "1.0  of red chilli",
+        "1.0 tbsp of sunflower oil"
+      ],
+      "instructions": [
+        "Finely slice a quarter of the chilli, thenput the rest in a food processor withthe ginger, garlic, coriander stalks andone-third of the leaves. Whizz to a roughpaste with a splash of water if needed.",
+        "Heat the oil in a frying pan, then quicklybrown the chicken chunks for 1 min. Stirin the paste for another min, then add thepeanut butter, stock and yogurt. Whenthe sauce is gently bubbling, cook for10 mins until the chicken is just cookedthrough and sauce thickened. Stir in mostof the remaining coriander, then scatterthe rest on top with the chilli, if using.Eat with rice or mashed sweet potato."
+      ],
+      "name": "Nutty chicken curry",
+      "sourceLink": "http://www.bbcgoodfood.com/recipes/11753/nutty-chicken-curry",
+      "sourceName": "BBC Good Food"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 842411,
+      "imageUrl": "https://spoonacular.com/recipeImages/842411-556x370.jpg",
+      "ingredients": [
+        "4.0 servings of chicken",
+        "0.5  of cucumber",
+        "1.0  of cucumber",
+        "0.5 teaspoon of dill",
+        "1.0 cup of feta cheese",
+        "2.0  of garlic cloves",
+        "0.5 teaspoon of garlic powder",
+        "0.5 pint of grape tomatoes",
+        "1.0  of juice of lemon",
+        "1.0 pinch of lemon pepper seasoning",
+        "0.3333333333333333 cup of milk",
+        "2.0 tablespoons of olive oil",
+        "1.0 teaspoon of oregano",
+        "0.25 teaspoon of pepper",
+        "1.0 cup of plain greek yogurt",
+        "0.5  of red onion",
+        "1.0 head of romaine lettuce",
+        "4.0 servings of salad mix",
+        "0.25 teaspoon of salt",
+        "0.5 teaspoon of salt",
+        "1.0 pound of skinless boneless chicken breast",
+        "4.0 servings of slaw dressing",
+        "0.5 teaspoon of white distilled vinegar"
+      ],
+      "instructions": [
+        "Prepare Chicken",
+        "Place chicken in a gallon size resealable bag.In a small bowl mix together lemon zest and juice, garlic, olive oil, oregano, salt and pepper.",
+        "Pour marinade over chicken and marinate for a few hours or overnight.When ready to cook heat a large grill pan over medium high heat.",
+        "Remove chicken from marinade and discard bag.",
+        "Add chicken to pan and cook about 8 minutes per side until throughly cooked.",
+        "Transfer chicken to a cutting board and slice on a diagonal then set aside.Prepare Dressing",
+        "Peel and shred cucumber using a grater.",
+        "Place shredded cucumber in a colander or kitchen towel and press all the juices out.",
+        "Place shredded cucumber in a bowl along with yogurt,  cup milk, dill, vinegar, garlic powder, salt, pepper or lemon pepper seasoning and mix until combined.",
+        "Add additional milk if desired.",
+        "Place dressing in a mason jar. Cover and refrigerate until ready to serve.Shake dressing well before serving.Assemble salad",
+        "To assemble salad, place chopped lettuce in a large bowl. Top with tomatoes, cucumber, onion and feta and top with sliced chicken.",
+        "Drizzle with dressing before serving."
+      ],
+      "name": "Chicken Gyro Salad with Creamy Tzatziki Dressing",
+      "sourceLink": "http://www.MotherThyme.com/2017/02/chicken-gyro-salad-with-creamy-tzatziki-dressing.html",
+      "sourceName": null
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 35,
+      "id": 463393,
+      "imageUrl": "https://spoonacular.com/recipeImages/463393-556x370.jpg",
+      "ingredients": [
+        "1.0 tablespoon of canola oil",
+        "1.0 teaspoon of chili powder",
+        "1.0 tablespoon of lime juice",
+        "1.0 teaspoon of low sodium soy sauce",
+        "0.25 teaspoon of pepper",
+        "1.0 pound of pork tenderloin",
+        "0.5 teaspoon of salt",
+        "0.5 teaspoon of sugar"
+      ],
+      "instructions": [
+        "In a small bowl, combine the first six ingredients; brush over pork.",
+        "In a large ovenproof skillet, brown pork in oil on all sides.",
+        "Bake at 375\u00b0 for 25-30 minutes or until a thermometer reads 145\u00b0.",
+        "Let stand for 5 minutes before slicing."
+      ],
+      "name": "Chili Pork Tenderloin",
+      "sourceLink": "http://www.tasteofhome.com/recipes/chili-pork-tenderloin",
+      "sourceName": "Taste of Home"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 30,
+      "id": 611908,
+      "imageUrl": "https://spoonacular.com/recipeImages/611908-556x370.png",
+      "ingredients": [
+        "4.0 tablespoons of butter",
+        "4.0 cups of cheddar cheese",
+        "4.0 tablespoons of flour",
+        "1.0 lb of macaroni pasta",
+        "1.0 pinch of nutmeg",
+        "1.0 cup of parmesan cheese",
+        "6.0 servings of Salt & Pepper",
+        "1.0 package of turkey sausage",
+        "3.0 cups of whole milk"
+      ],
+      "instructions": [
+        "Bring large pot of salted water to boil. Cook macaroni according to package directions.",
+        "Drain and set aside.Replace pot back to medium heat. Melt butter, then whisk in flour. Cook 1 minute.",
+        "Whisk in milk slowly to prevent lumps from forming.",
+        "Add nutmeg, salt and pepper to taste. Cook 5 minutes over medium low heat to thicken sauce without curdling the milk. Sprinkle cheese in bit by bit until it's all incorporated into one smooth cheesy sauce. Stir in cooked pasta and Butterball turkey sausage. Warm it all through 2-3 minutes before serving.",
+        "Serve hot."
+      ],
+      "name": "Stovetop Mac n' Cheese with Turkey Sausage",
+      "sourceLink": "http://www.laurenslatest.com/stovetop-mac-n-cheese-with-turkey-sausage/",
+      "sourceName": "Laurens Latest"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 20,
+      "id": 518083,
+      "imageUrl": "https://spoonacular.com/recipeImages/518083-556x370.jpg",
+      "ingredients": [
+        "0.5 cup of almonds",
+        "1.0 cup of celery",
+        "4.0 cups of cooked chicken",
+        "0.5 cup of dried cranberries",
+        "2.0 teaspoons of lemon juice",
+        "0.5 cup of light mayonnaise",
+        "8.0 servings of pepper",
+        "0.5 cup of red onion",
+        "0.5 teaspoon of salt",
+        "1.5 cups of tart apples"
+      ],
+      "instructions": [
+        "Pre-heat the oven to 35",
+        "Place the chicken in a large bowl.In a medium bowl toss the apples, celery, onions, and cranberries with the lemon juice. Set aside.Scatter the almonds across an ungreased baking pan in a single layer.",
+        "Place them in the pre-heated oven to toast for 5-7 minutes. Watch them closely! **See note**Take the almonds from the oven and coarsely chop them.",
+        "Add them to the chicken.",
+        "Add the apple blend to the chicken and almonds. Stir in the mayonnaise and/or the Greek yogurt a little at a time (until you are satisfied with the consistency) to coat.Toss in the salt and stir.Keep refrigerated until you're ready to serve."
+      ],
+      "name": "Cranberry Apple Almond Chicken Salad",
+      "sourceLink": "http://www.sugardishme.com/2013/01/07/cranberry-apple-almond-chicken-salad/",
+      "sourceName": "Sugar Dish Me"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 508841,
+      "imageUrl": "https://spoonacular.com/recipeImages/508841-556x370.jpg",
+      "ingredients": [
+        "0.5 cup of butter",
+        "1.0 cup of carrot",
+        "1.0 cup of celery",
+        "1.0  of egg yolk",
+        "4.0 cups of fat-free milk",
+        "0.5 cup of flour",
+        "1.0 tablespoon of fresh thyme",
+        "3.0  of garlic cloves",
+        "1.0 pound of halibut fillet",
+        "2.0  of leeks",
+        "0.5 cup of mushrooms",
+        "1.0 cup of peas",
+        "0.5 teaspoon of pepper",
+        "17.3 ounce of puff pastry sheets",
+        "1.5 cups of green beans",
+        "1.5 teaspoons of salt",
+        "0.5 pound of shrimp",
+        "1.0 tablespoon of water",
+        "1.0  of yukon gold potatoes"
+      ],
+      "instructions": [
+        "Preheat oven to 40",
+        "Melt butter over medium-high heat in a large Dutch oven. Saut potato, leeks, celery, and mushrooms for 10 minutes.",
+        "Add thyme and garlic; cook 1 minute. Sprinkle flour over vegetables, and cook, stirring constantly, 3 minutes.",
+        "Whisk in milk; bring to a boil. Reduce heat to low, and simmer 2 to 3 minutes or until potato is almost tender.",
+        "Add cod, shrimp and next 5 ingredients; return mixture to a simmer.",
+        "Remove from heat. (Fish will be undercooked.) Ladle filling into 4 to 6 individual ovenproof soup crocks or ramekins.",
+        "Roll out pastry on a lightly floured surface until smooth.",
+        "Cut pastry into circles, cutting the circles 1 inch larger than the mouth of the soup crocks.",
+        "Whisk together egg yolk and 1 tablespoon water; brush underside of pastry edges with egg wash and place over crock, pressing edges to seal.",
+        "Brush tops with egg wash.",
+        "Place crocks on baking sheet.",
+        "Bake at 400 for 14 to 16 minutes or until pastry is golden brown."
+      ],
+      "name": "Seafood Pot Pie",
+      "sourceLink": "http://citronlimette.com/recipe_archive/main_dishes/seafood-pot-pie/",
+      "sourceName": "Citronlimette"
+    },
+    {
+      "cookTimeHours": 1,
+      "cookTimeMinutes": 0,
+      "id": 1005037,
+      "imageUrl": "https://spoonacular.com/recipeImages/1005037-556x370.jpg",
+      "ingredients": [
+        "1.0 pound of chicken breast",
+        "0.5 teaspoon of salt",
+        "8.0 cups of baby beet",
+        "1.0 pint of strawberries",
+        "0.5 cup of goat cheese",
+        "0.3333333333333333 cup of roasted cashews",
+        "2.0 tablespoons of cider vinegar",
+        "1.0 tablespoon of shallot",
+        "2.0 teaspoons of honey mustard",
+        "3.0 tablespoons of olive oil",
+        "1.0 serving of pepper"
+      ],
+      "instructions": [
+        "Place chicken in a medium skillet and cover with water.",
+        "Add 1/4 teaspoon salt and bring to a boil. Reduce heat to medium-low to maintain simmer and cook until chicken is cooked through, 12 to 15 minutes.",
+        "Remove chicken from the poaching liquid and cool completely before slicing.",
+        "Meanwhile, arrange greens, strawberries, goat cheese and cashews on a large platter.",
+        "Whisk vinegar, shallot, honey mustard and the remaining 1/4 teaspoon salt in a small bowl.",
+        "Whisk in oil and season with pepper. Top salad with chicken and drizzle with dressing."
+      ],
+      "name": "green salad with chicken, strawberries and goat cheese",
+      "sourceLink": "https://www.healthyseasonalrecipes.com/green-salad-chicken-strawberries-goat-cheese/",
+      "sourceName": "Healthy Seasonal Recipes"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 987517,
+      "imageUrl": "https://spoonacular.com/recipeImages/987517-556x370.jpg",
+      "ingredients": [
+        "0.125 teaspoon of black pepper",
+        "15.0 ounce of canned black beans",
+        "15.0 ounce of canned chickpeas",
+        "0.25 teaspoon of cayenne pepper",
+        "0.25 cup of extra virgin olive oil",
+        "0.25 cup of fresh mint",
+        "0.3333333333333333 cup of fresh parsley",
+        "2.0  of garlic cloves",
+        "1.0  of jalapeno",
+        "1.0  of juice of lemon",
+        "2.0 Tablespoons of red wine vinegar",
+        "0.5 teaspoon of salt",
+        "0.5 teaspoon of sumac",
+        "0.25  of sweet onion",
+        "3.0  of tomatoes"
+      ],
+      "instructions": [
+        "In a large bowl combine the chickpeas, black beans, tomatoes, onion and parsley.",
+        "Using a mason jar or a salad dressing container mix together the olive oil, red wine vinegar, lemon juice, sumac, minced garlic, cayenne pepper, jalapeo, salt and pepper. Taste and adjust seasoning.",
+        "Pour half of the dressing over the salad and toss to combine. Taste and add more dressing to your liking.",
+        "Refrigerate until ready to eat."
+      ],
+      "name": "Balela Salad",
+      "sourceLink": "https://www.acedarspoon.com/balela-salad/",
+      "sourceName": "A Cedar Spoon"
+    },
+    {
+      "cookTimeHours": 1,
+      "cookTimeMinutes": 5,
+      "id": 517107,
+      "imageUrl": "https://spoonacular.com/recipeImages/517107-556x370.jpg",
+      "ingredients": [
+        "0.3333333333333333 cup of basil",
+        "5.0 tablespoons of butter",
+        "0.75 cup of cheese",
+        "24.0  of cooked pasta shells",
+        "2.0  of eggs",
+        "4.0 tablespoons of flour",
+        "2.0 tablespoons of fresh basil",
+        "1.0 tablespoon of fresh chives",
+        "4.0 ounces of goat cheese",
+        "2.0 cups of low fat milk",
+        "30.0 ounces of ricotta cheese",
+        "2.0 teaspoons of salt",
+        "6.0 servings of salt and pepper",
+        "2.0 cups of whole milk"
+      ],
+      "instructions": [
+        "Prepare the filling:  In a large bowl, mix all of the filling ingredients together. Season with salt and pepper.",
+        "Prepare the Sauce:  In a medium saucepan, heat the butter over medium-low heat until melted.",
+        "Whisk in the flour and stir until smooth.  Over medium heat, cook until the mixture turns a golden sandy color, about 6 to 7 minutes.  Meanwhile, heat the milk in a separate pan until just about to boil.",
+        "Add the hot milk to the butter mixture 1 cup at a time, whisking constantly until very smooth.  Bring to a boil- stir and cook for 8 to 10 minutes, then remove from heat and stir in the salt and cheese.  Set aside until ready to use.",
+        "Assemble the shells:  Preheat the oven to 350 degrees F.  Spray a 9x13-inch pan with nonstick spray.",
+        "Pour about 1 1/2 cups sauce into the bottom of the pan.  Fill the shells with the cheese mixture and set them in the pan (6 rows x 4 rows).",
+        "Drizzle the remaining sauce on top.  Sprinkle basil and chives (if using) on top, then sprinkle with salt and pepper.",
+        "Bake 30 minutes, or until the shells are hot and bubbling and heated through.  Leftovers keep well (and my husband says they're even better the next day!)"
+      ],
+      "name": "Three Cheese Stuffed Shells with Creamy White Sauce",
+      "sourceLink": "http://www.recipegirl.com/2012/12/10/three-cheese-stuffed-shells-with-creamy-white-sauce/",
+      "sourceName": "Recipe Girl"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 837450,
+      "imageUrl": "https://spoonacular.com/recipeImages/837450-556x370.jpg",
+      "ingredients": [
+        "1.5 tsp of ancho chili powder",
+        "1.0  of avocado",
+        "14.5 oz of canned black beans",
+        "14.5 oz of canned tomatoes",
+        "29.0 oz of chicken broth",
+        "0.25 cup of cilantro",
+        "2.0 cups of enchilada sauce",
+        "1.5 cups of frozen corn",
+        "2.0 cloves of garlic",
+        "1.5 tsp of ground cumin",
+        "1.0  of onion",
+        "0.6666666666666666 cup of quinoa",
+        "5.0 servings of salt and pepper",
+        "5.0 servings of shredded mexican cheese blend",
+        "1.25 lbs of skinless boneless chicken breasts"
+      ],
+      "instructions": [
+        "To a 6-quart slow cooker add chicken broth, enchilada sauce, tomatoes, chili powder, cumin and season with salt and pepper to taste.",
+        "Add in chicken, onion and garlic. Cover and cook on low heat until chicken has cooked through and is tender, about 6 hours, while adding in quinoa during the last 30 minutes of cooking (so at about 5 1/2 hours add quinoa).",
+        "Remove chicken and dice or shred.",
+        "Add corn and black beans to soup and heat through. Return chicken to soup and stir in avocado and cilantro.",
+        "Serve warm with cheese, sour cream and tortilla chips.*I've tested La Victoria and Las Palmas since they were chili based sauces. I liked La Victoria but not Las Palmas it tasted almost bitter. Next I'd like to try Old El Paso, if you do try it please let me know how you like it. I think it may need more chili powder though as it is tomato based.**Adjust this to taste. You may want a little more depending on the brand of enchilada sauce used some are more chili pepper based than others.***You can warm this in the microwave in water first then drain if you don't wait to wait for it to warm in the soup.Recipe source: Cooking Classy"
+      ],
+      "name": "Slow Cooker Chicken Enchilada Quinoa Soup",
+      "sourceLink": "http://www.cookingclassy.com/slow-cooker-chicken-enchilada-quinoa-soup/",
+      "sourceName": "Cooking Classy"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 35,
+      "id": 479055,
+      "imageUrl": "https://spoonacular.com/recipeImages/479055-556x370.jpg",
+      "ingredients": [
+        "1.25 pounds of ahi tuna steak",
+        "1.0  of chile pepper",
+        "3.0 cups of fish stock",
+        "2.0  of garlic cloves",
+        "3.0 tablespoons of olive oil",
+        "1.0  of onion",
+        "2.0 tablespoons of parsley",
+        "1.0  of poblano pepper",
+        "1.0  of red bell pepper",
+        "0.5 teaspoon of red chile flakes",
+        "1.0 pound of russet potato",
+        "4.0 servings of sea salt",
+        "1.0  of tomato"
+      ],
+      "instructions": [
+        "Heat 1 tablespoon of the oil in a large heavy bottomed saucepan or Dutch oven. Season the tuna with salt and sear it in batches over high heat until browned on at least two sides, about 2 minutes total.",
+        "Remove to a plate.",
+        "Add the remaining oil and the onion, peppers, garlic, chile flakes, and 1 teaspoon salt.",
+        "Saute over medium heat until the vegetables are very soft but not browning, about 10 minutes. Stir in the tomatoes and potatoes. Cover with the stock or water and bring to a boil. Turn the heat down to medium-low and simmer until the potatoes are tender and the broth has thickened, about 15 to 20 minutes. Taste for seasoning and add more salt as necessary. Stir in half the parsley and the tuna. remove from the heat and let stand 3 minutes, until the tuna is heated through and just barely cooked.",
+        "Serve the stew in bowls and garnish with the remaining parsley."
+      ],
+      "name": "Tastetrotting: Marmitako a.k.a Basque Tuna Stew with Peppers and Potatoes",
+      "sourceLink": "http://feedmephoebe.com/2013/09/tastetrotting-marmitako-a-k-a-basque-tuna-stew-with-peppers-and-potatoes/",
+      "sourceName": "Feed Me Phoebe"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 584808,
+      "imageUrl": "https://spoonacular.com/recipeImages/584808-556x370.jpg",
+      "ingredients": [
+        "2.0 cups of beef broth",
+        "15.0 ounce of canned kidney beans",
+        "30.0 ounces of canned pinto beans",
+        "30.0 ounce of canned tomato sauce",
+        "2.0 tablespoons of chili powder",
+        "15.0 ounce of condensed tomato soup",
+        "2.0 cloves of garlic",
+        "2.0 pounds of ground beef",
+        "1.0 tablespoon of ground cumin",
+        "0.5 cup of masa flour",
+        "1.0 cup of onion",
+        "1.0 tablespoon of sugar",
+        "1.0 cup of water",
+        "10.0 ounce of rotel"
+      ],
+      "instructions": [
+        "In a large saucepan over high heat, brown ground beef breaking it into small pieces as you go. Season with salt and pepper.",
+        "Add onion and garlic, and cook for a few more minutes to soften them.",
+        "Remove from heat and drain off excess oil.",
+        "Add the browned ground beef, onion and garlic to the crockpot.",
+        "Add tomato sauce, tomato soup, Rotel, pinto beans, kidney beans, beef broth, spices, and sugar.Turn heat to low, cover, and allow to cook for 6-8 hours.One hour before serving (if you have time), add the masa to the warm water and whisk together until smooth. Stir the slurry into the chili. Cover and cook one more hour to allow the chili to thicken and the flavors to blend."
+      ],
+      "name": "Easy Crockpot Chili",
+      "sourceLink": "http://lovelylittlekitchen.com/easy-crockpot-chili/",
+      "sourceName": "Lovely Little Kitchen"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 50,
+      "id": 514813,
+      "imageUrl": "https://spoonacular.com/recipeImages/514813-556x370.jpg",
+      "ingredients": [
+        "0.5 tsp of chili powder",
+        "8.5 oz of cornbread mix",
+        "14.0 oz of creamed corn",
+        "1.0  of egg",
+        "0.25 tsp of kosher salt",
+        "11.0 oz of mexicorn",
+        "2.0 tsp of olive oil",
+        "0.5 c of shredded mexican cheese blend",
+        "0.75 lb of skinless boneless chicken breasts",
+        "0.5 c of sour cream"
+      ],
+      "instructions": [
+        "Preheat oven to 375 degrees F. Spray a square baking dish with cooking spray, and set aside.",
+        "Heat olive oil in a skillet over medium high heat.",
+        "Add diced chicken, sprinkle with chili powder and salt, and saut\u00e9 until cooked through.Meanwhile, whisk together egg and yogurt in a medium bowl. Stir in creamed corn, Mexicorn, cornbread mix, and cheese until just combined. Stir in cooked chicken.",
+        "Spread cornbread mixture into prepared baking dish, and bake in preheated oven for 35-45 minutes, until center is set."
+      ],
+      "name": "Cornbread Casserole with Chicken (or not!)",
+      "sourceLink": "http://wearychef.com/cornbread-casserole-with-chicken/",
+      "sourceName": "Weary Chef"
+    },
+    {
+      "cookTimeHours": 12,
+      "cookTimeMinutes": 10,
+      "id": 588702,
+      "imageUrl": "https://spoonacular.com/recipeImages/588702-556x370.jpg",
+      "ingredients": [
+        "1.0 leaves of banana leaves",
+        "4.0 lb of boston butt",
+        "1.0 Tbsp of flavor shot",
+        "2.0 tsp of sea-salt"
+      ],
+      "instructions": [
+        "Wash and pat dry the pork roast and place in the slow cooker",
+        "Pierce all over with a fork, pour the liquid smoke evenly over the roast and sprinkle liberally with the sea salt.",
+        "Place the lid of the slow cooker on and set the time for 8-12 hours on LOW.Check at about 8 hours for doneness. If not done let go the full 12 hours, checking every hour.Either remove the pork from the pot and shred with a fork and return to pot or shred in the pot when its done. You can remove some of the liquid and shred then add some back in to keep the pork from drying out."
+      ],
+      "name": "Hawaiian Style Slow Cooker Kalua Pork",
+      "sourceLink": "http://www.pineappleandcoconut.com/recipes/hawaiian-style-slow-cooker-kalua-pork/",
+      "sourceName": "Pineapple and Coconut"
+    },
+    {
+      "cookTimeHours": 2,
+      "cookTimeMinutes": 10,
+      "id": 553839,
+      "imageUrl": "https://spoonacular.com/recipeImages/553839-556x370.jpg",
+      "ingredients": [
+        "56.0 oz of applewood smoked bacon",
+        "6.0 slices of bacon",
+        "0.25 cup of barbecue sauce",
+        "0.5 cup of brown sugar",
+        "0.5 cup of green pepper",
+        "2.0 teaspoons of ground mustard",
+        "1.0 cup of onion",
+        "0.25 cup of white vinegar"
+      ],
+      "instructions": [
+        "Cook bacon until crispy, set aside",
+        "Chop onions and green pepper, cook in bacon drippings until soft",
+        "Mix all ingredients in a large bowl, then transfer to 9x9 foil pan for the grill or baking dish for the oven",
+        "Preheat grill to medium-low heat",
+        "Cook beans over direct heat for about 2 hours until bubbly"
+      ],
+      "name": "Smokehouse Grilled Barbecue Beans",
+      "sourceLink": "http://pocketchangegourmet.com/smokehouse-grilled-barbecue-beans/",
+      "sourceName": "Pocket Change Gourmet"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 153435,
+      "imageUrl": "https://spoonacular.com/recipeImages/153435-556x370.jpg",
+      "ingredients": [
+        "28.0 ounce of canned tomatoes",
+        "1.0 pound of cooked rigatoni",
+        "1.0  of egg",
+        "4.0 cups of fresh mozzarella",
+        "10.0 ounce of frozen spinach",
+        "3.0  of garlic cloves",
+        "1.0 pinch of nutmeg",
+        "0.25 cup of olive oil",
+        "0.5  of onion",
+        "1.0 pinch of oregano",
+        "0.75 cup of parmesan",
+        "10.0 servings of salt and pepper",
+        "12.0 ounce of tofu"
+      ],
+      "instructions": [
+        "Preheat oven to 350\u00b0F.",
+        "Heat the oil in a saucepan over medium-high heat.",
+        "Add the onion. Saut\u00e9 for 3 minutes, then add the garlic and cook until the onion is translucent, about 2 minutes more.",
+        "Add the tomatoes and oregano. Reduce heat and simmer, stirring occasionally, for 15 minutes. Meanwhile, in a blender, process the tofu, egg, nutmeg, salt, and pepper until smooth.",
+        "Transfer the mixture to a bowl and fold in the spinach, cooked rigatoni, tomato sauce, 1 cup of the mozzarella, and 1/2 cup of the Parmesan.",
+        "Drizzle a coating of olive oil into a 13-by-9-inch baking pan.",
+        "Add the pasta mixture and sprinkle the remaining cheeses over the top.",
+        "Bake until golden and bubbling, 35 to 40 minutes.",
+        "Let cool for 10 minutes before slicing."
+      ],
+      "name": "Tofu Rigatoni Casserole",
+      "sourceLink": "http://www.epicurious.com/recipes/food/views/Tofu-Rigatoni-Casserole-239219",
+      "sourceName": "Epicurious"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 523120,
+      "imageUrl": "https://spoonacular.com/recipeImages/523120-556x370.jpg",
+      "ingredients": [
+        "0.25 c of black beans",
+        "4.0 c of broth",
+        "0.5 tsp of chili flakes",
+        "1.0  of cinnamon stick",
+        "4.0 tbsps of garlic",
+        "4.0 servings of light soy sauce",
+        "1.0 leaves of onion leaves",
+        "1.2 kg of pork belly",
+        "4.0 servings of sesame seed oil",
+        "1.0  of star anise",
+        "6.0 tbsps of sugar",
+        "4.0 tbsps of vegetable cooking oil",
+        "0.25 c of wine"
+      ],
+      "instructions": [
+        "Place the black beans in a mortar and pound lightly with a pestle.",
+        "Heat the cooking oil in a wok or pan that is large enough to contain the pork cubes in a single layer.",
+        "Add the chilies, black beans and garlic.",
+        "Saute until fragrant, about 30 seconds.",
+        "Add the pork cubes, in a single layer, and cook over high heat until browned, turning them over and sideways to brown all sides.",
+        "Add the rest of the ingredients except the light soy sauce. Allow to boil, uncovered, for about five minutes. Turn the heat to low, cover the wok or pan and simmer the pork for an hour to an hour and a half. After an hour, check the pork and taste the sauce. If it tastes bland, add light soy sauce.When the pork is done, if the sauce appears too thin, turn up the heat and boil the pork for a couple of minutes, uncovered, until the sauce reduces and is thicker.Fish out the star anise and cinnamon stick.",
+        "Transfer the pork to a serving bowl, pour in the sauce, drizzle some sesame seed oil and garnish with finely sliced onion leaves."
+      ],
+      "name": "Pork stew with spicy black beans and garlic sauce",
+      "sourceLink": "http://casaveneracion.com/pork-stew-with-spicy-black-beans-and-garlic-sauce/",
+      "sourceName": "Casaveneracion"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 50,
+      "id": 567996,
+      "imageUrl": "https://spoonacular.com/recipeImages/567996-556x370.jpg",
+      "ingredients": [
+        "2.0 tablespoons of butter",
+        "2.0 cups of cheddar",
+        "2.0 cups of cheddar",
+        "0.25 teaspoon of chili powder",
+        "0.25 teaspoon of cumin",
+        "2.0 cups of fat free milk",
+        "4.0 tablespoons of flour",
+        "0.5 teaspoon of garlic powder",
+        "1.0  of jalapeno",
+        "0.5 teaspoon of kosher salt",
+        "2.0 tablespoons of olive oil",
+        "0.5  of onion",
+        "0.25 teaspoon of paprika",
+        "1.0 pound of penne pasta",
+        "2.0 cups of sour dough bread"
+      ],
+      "instructions": [
+        "Preheat oven to 35",
+        "Grease an 8 x 8 baking dish.    Boil water and cook pasta 5 - 6 minutes and then drain. The pasta should still be firm as it will continue to cook while you are baking it.    While your pasta is cooking , heat olive oil in a large pot over medium heat. Stir in diced onion and jalapeno. Cook 5 minutes or until softened.",
+        "Whisk in flour. Cook 1 minute. Gradually whisk in milk. Once milk has warmed and mixture has thickened slightly, about 5 minutes, stir in cheeses, cumin, paprika, 1/4 teaspoon chili powder, 1/2 teaspoon garlic powder and kosher salt.    Stir in pasta.",
+        "Mix well.",
+        "Transfer to prepared baking dish.    Melt butter in a skillet over medium heat, stir in bread crumbs, remaining chili and garlic powder. Cook just until bread is toasted, about 3 minutes. Sprinkle bread crumbs over the top of the macaroni and cheese.",
+        "Bake macaroni and cheese for 25 - 30 minutes or until top is golden brown and the edges are bubbly.",
+        "Serve."
+      ],
+      "name": "Smoked Cheddar and Jalapeno Macaroni and Cheese",
+      "sourceLink": "http://www.lifesambrosia.com/2010/09/smoked-cheddar-and-jalapeno-macaroni-and-cheese-recipe.html",
+      "sourceName": "Lifes Ambrosia"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 40,
+      "id": 604700,
+      "imageUrl": "https://spoonacular.com/recipeImages/604700-556x370.jpg",
+      "ingredients": [
+        "0.25 tsp of black pepper",
+        "6.0 cups of butter lettuce",
+        "0.75 cup of cashews",
+        "0.25 cup of fresh cilantro",
+        "2.0  of green onions",
+        "2.0 tsp of ground ginger",
+        "1.0  of mango",
+        "1.0 Tbs of olive oil",
+        "1.0  of red bell pepper",
+        "0.25 cup of red onion",
+        "0.25 tsp of salt",
+        "2.0 tsp of sesame oil",
+        "2.0 tsp of sesame seeds",
+        "3.0 cups of shredded chicken",
+        "1.0 Tbs of soy sauce",
+        "1.0 tsp of sriracha",
+        "1.0 strips of wonton wraps"
+      ],
+      "instructions": [
+        "Heat the oil in a large non-stick skillet.",
+        "Add the onions and cook for 5-6 minutes until tender and fragrant.",
+        "Add the bell pepper, cashews, salt & pepper and ginger.  Cook for another 2-3 minutes until the bell pepper is soft.Stir in the chicken, sesame seeds, soy sauce, sesame oil, and Sriracha and cook until everything is combined.  Season with additional salt and pepper, if needed.",
+        "Mix the greens (I use about half Romaine and half butter lettuce mix) with the cilantro in a large bowl.",
+        "Serve the cooked cashew chicken mixture over the greens/cilantro mix, and top with the cubed mango, additional cashews and/or Sriracha and wonton strips.Cassie\u2019s Notes:I have used store-bought wonton strips but I much prefer to make them myself.  Here\u2019s what I do:Take 12 wonton wrappers and cut them in half, and then cut each half into strips \u2013 I get 8 strips out of one wrapper.  Preheat the oven to 350 degrees.  Toss the cut strips with about 1 teaspoon of olive oil and 1 teaspoon of sesame oil.  Sprinkle with a little salt and ground ginger (about 1/4 teaspoon each) and then toss to combine.",
+        "Bake for 8-10 minutes, tossing frequently, until golden brown."
+      ],
+      "name": "Mango Cashew Chicken Salad",
+      "sourceLink": "http://www.bakeyourday.net/mango-cashew-chicken-salad/",
+      "sourceName": "Bake Your Day"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 25,
+      "id": 840996,
+      "imageUrl": "https://spoonacular.com/recipeImages/840996-556x370.jpg",
+      "ingredients": [
+        "2.0  of eggs",
+        "1.0 tablespoon of extra virgin olive oil",
+        "0.25 cup of feta",
+        "1.0 clove of garlic",
+        "4.0 cups of kale",
+        "0.5 cup of marinara sauce",
+        "0.5  of onion",
+        "0.25 teaspoon of red pepper flakes",
+        "2.0 servings of Salt & Pepper"
+      ],
+      "instructions": [
+        "Preheat oven to 375 degrees.In a skillet over medium heat, cook onions, garlic & olive oil for 3-4 minutes, until softened.",
+        "Add kale and red pepper flakes and cook another 2-3 minutes until kale is wilted.Spray two oven safe ramekins with cooking spray and spoon 2 tablespoons of sauce into the bottom of each.Next, add half the kale and onion mixture between the two ramekins then half the feta, the remaining 2 tablespoons of sauce, then the remainder of the kale.Crack an egg into each ramekin and sprinkle remaining feta on top of that. Season with salt and pepper.",
+        "Bake for 12-15 minutes until eggs are fully cooked but still runny.",
+        "Serve warm with crusty bread."
+      ],
+      "name": "Kale Feta Egg Bake",
+      "sourceLink": "http://www.runningtothekitchen.com/kale-feta-egg-bake/",
+      "sourceName": "Running to the Kitchen"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 25,
+      "id": 532784,
+      "imageUrl": "https://spoonacular.com/recipeImages/532784-556x370.jpg",
+      "ingredients": [
+        "1.0  of avocado",
+        "1.0 teaspoon of chili powder",
+        "0.5 tablespoon of cilantro",
+        "1.0 teaspoon of cumin",
+        "8.0  of eggs",
+        "1.0  of jalapeno",
+        "0.5 teaspoon of onion powder",
+        "4.0 servings of salt and pepper",
+        "0.5 teaspoon of white vinegar"
+      ],
+      "instructions": [
+        "In a medium pot, add cold water and eggs.Bring to a boil, Cover and remove from heat. Allow to sit covered for 13 minutes.",
+        "Drain and place the eggs in a large bowl of ice water for 10 minutes.Peel and coarsely chop the eggs.",
+        "Place the eggs in a medium bowl.",
+        "Add the jalape\u00f1o, green onion,cilantro,mustard,cumin,chili powder,onion powder,and vinegar, stir to incorporate.Stir in the mayonnaise.Fold in the avocado.Put in a covered bowl and place in the refrigerator for several hours before serving."
+      ],
+      "name": "Southwestern Egg Salad",
+      "sourceLink": "http://www.thehungryhousewife.com/2013/02/southwestern-egg-salad.html",
+      "sourceName": "The Hungry House Wife"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 879085,
+      "imageUrl": "https://spoonacular.com/recipeImages/879085-556x370.jpg",
+      "ingredients": [
+        "4.0  of skinless boneless chicken breast halves",
+        "2.0 tablespoons of dried mint",
+        "3.0  of garlic cloves",
+        "0.5  of juice of lemon",
+        "1.0 teaspoon of kosher salt",
+        "3.0 tablespoons of olive oil",
+        "9.0 servings of pepper",
+        "1.0  of real bacon recipe pieces",
+        "245.0 g of skim milk yogurt",
+        "1.0  of sweet onion"
+      ],
+      "instructions": [
+        "In a small bowl, combine the yogurt, onion, garlic, lemon, mint, and olive oil.",
+        "Cut the chicken into 1- to 2-inch (2.5 to 5 cm) pieces and place them in a medium bowl or a plastic ziplock bag.",
+        "Pour the marinade over the chicken, cover the bowl or seal the bag, and refrigerate for at least 8 and up to 24 hours (the longer, the more flavorful).",
+        "Preheat a grill or broiler on medium-high.",
+        "Place the chicken in a colander and drain off the marinade. Pat the chicken dry with paper towels. Thread 6 skewers with the chicken, leaving some breathing room (about 1/8 inch / 3 mm) between the pieces. Generously season the chicken all over with salt and pepper.",
+        "Grill the chicken over medium-high heat, or broil them on a broiler or sheet pan, until the chicken is cooked through and is slightly charred around the edges, about 10 minutes on the grill and about 20 minutes under the broiler. Turn the skewers over halfway through cooking.",
+        "Remove the cooked chicken from the skewers with a fork.",
+        "Serve the chicken hot with the toum, either on the side for dipping or drizzled over the chicken after it has been removed from the skewers.",
+        "From Rose Water and Orange Blossoms: Fresh & Classic Recipes from my Lebanese Kitchen  2015 by Maureen Abood. Reprinted with permission from Running Press, a member of the Perseus Books Group.Buy the full book from Amazon."
+      ],
+      "name": "Yogurt Marinated Chicken Skewers With Toum Garlic Sauce",
+      "sourceLink": "http://www.epicurious.com/recipes/food/views/yogurt-marinated-chicken-skewers-with-toum-garlic-sauce",
+      "sourceName": "Epicurious"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 556814,
+      "imageUrl": "https://spoonacular.com/recipeImages/556814-556x370.jpg",
+      "ingredients": [
+        "0.5 teaspoon of black pepper",
+        "0.25 c of buttermilk",
+        "2.0 T of cider vinegar",
+        "0.3333333333333333 cup of cucumber",
+        "3.0 T of fresh cilantro",
+        "1.0 teaspoon of garlic",
+        "5.0 ounces of goat cheese",
+        "1.5 pounds of ground beef",
+        "0.5 teaspoon of lemon zest",
+        "1.0 T of olive oil",
+        "0.5 teaspoon of salt",
+        "4.0 servings of sub buns",
+        "2.0 tsp of whole-grain mustard"
+      ],
+      "instructions": [
+        "For the burgers:Preheat your grill (or stove-top grill pan) to high",
+        "In a medium-sized bowl, add the salt and pepper to the ground beef and gently mix well. Don't squish the meat in your fists, but gently \"toss\" it around in the bowl. The less you handle the meat, the better. In a small bowl combine the goat cheese, lemon zest, and garlic. Grab a large plate or platter to set the patties on. Score the meat while it's in the bowl so the meat is divided evenly. Divide it into 4 or 5 sections, depending on how thick you want your burgers. Take out the amount for one burger and divide that in half. Make two very flat patties out of them."
+      ],
+      "name": "Goat Cheese-Stuffed Burger with Tangy Goat Cheese-Cucumber Dressing",
+      "sourceLink": "http://www.perrysplate.com/2012/09/the-goat-cheese-lovers-burger.html",
+      "sourceName": "Perrys Plate"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 50,
+      "id": 829792,
+      "imageUrl": "https://spoonacular.com/recipeImages/829792-556x370.jpg",
+      "ingredients": [
+        "2.0 tablespoons of apple cider vinegar",
+        "2.0  of avocados",
+        "0.25 teaspoon of black pepper",
+        "1.5 pounds of butternut squash",
+        "1.0 teaspoon of dijon mustard",
+        "0.5 cup of dried cranberries",
+        "4.0  of eggs",
+        "0.25 cup of extra virgin olive oil",
+        "1.0 tablespoon of extra virgin olive oil",
+        "1.0  of gala apple",
+        "1.0 clove of garlic",
+        "2.0 ounces of goat cheese",
+        "0.25 teaspoon of kosher salt",
+        "0.5  of kosher salt",
+        "2.0 tablespoons of maple syrup",
+        "8.0 cups of mixed greens",
+        "0.3333333333333333 cup of pepitas",
+        "2.0  of skinless boneless chicken breasts",
+        "4.0 slices of thick-cut bacon"
+      ],
+      "instructions": [
+        "Heat agrill panor an outdoor grill over medium heat. Lightly pound the chicken to an even thickness and sprinkle with kosher salt and pepper. Grill for about 4 minutes per side, until cooked through and the internal temperature reaches 160 degrees F.",
+        "Remove to plate, cover, and let stand for 5-10 minutes.",
+        "Cut into bite-sized piecesand set aside. (If you prefer shredded chicken instead of grilled, prepare it according to this method.)Make the dressing: In a small bowl or large measuring cup, whisk together the dressing ingredients: olive oil, apple cider vinegar, maple syrup, Dijon, garlic, salt, and pepper.",
+        "Place the salad greens in a large bowl.",
+        "Add the butternut squash, bacon, chicken, eggs, and apple.",
+        "Drizzle with the dressing, toss gently to coat. Scatter the avocado, cranberries, goat cheese, and pepitas over the top. Enjoy!"
+      ],
+      "name": "Harvest Salad with Butternut Squash",
+      "sourceLink": "http://www.wellplated.com/harvest-cobb-salad/",
+      "sourceName": "Well Plated"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 35,
+      "id": 703451,
+      "imageUrl": "https://spoonacular.com/recipeImages/703451-556x370.jpg",
+      "ingredients": [
+        "3.0 teaspoons of avocado oil",
+        "1.0 cup of carrot",
+        "1.0 teaspoon of chili powder",
+        "15.0 ounce of cod fillets",
+        "10.0  of corn tortillas",
+        "1.0 tablespoon of distilled vinegar",
+        "0.25 teaspoon of granulated garlic",
+        "0.5 teaspoon of granulated garlic",
+        "0.5 teaspoon of ground cumin",
+        "1.0  of jalapeno",
+        "3.0  of lime wedges",
+        "2.0 tablespoons of mayonnaise",
+        "0.5 teaspoon of onion powder",
+        "0.25 teaspoon of paprika",
+        "4.0 servings of pico de gallo",
+        "2.0 cups of red cabbage",
+        "0.5 teaspoon of salt",
+        "0.75 teaspoon of salt"
+      ],
+      "instructions": [
+        "Prepare the slaw first.",
+        "Mix the cabbage, carrot and jalapeno together. In a small bowl, mix together mayonnaise, vinegar, salt, cumin, paprika and granulated garlic.",
+        "Pour mixture over the cabbage mixture and mix well. Cover and refrigerate until ready to use. Preheat oven to 425 degrees.",
+        "Combine chili powder, salt, granulated garlic, onion powder and paprika in a bowl.",
+        "Mix well. Rub chili powder mixture all over fish fillets. To make one pouch, place a fish fillet on a large piece of parchment paper (I used 10 3/4 x 15 inch sheets).",
+        "Drizzle with 1 teaspoon oil and squeeze lime wedge over the top. Fold the edges of the parchment paper together so that they close and form a pouch. Repeat with remaining ingredients.",
+        "Place pouches on a baking sheet and bake in preheated oven for 15 - 20 minutes or until fish is cooked through and flakes easily. Meanwhile, while fish is cooking, heat a dry cast iron skillet over medium heat and warm tortillas. When fish has cooked through, carefully remove fish from pouches and flake into bite size pieces. To make a fish taco, spoon some of the fish onto a tortilla, top with slaw and pico de gallo."
+      ],
+      "name": "Chili Rubbed Fish Tacos",
+      "sourceLink": "http://www.lifesambrosia.com/2016/01/chili-rubbed-fish-tacos-recipe.html",
+      "sourceName": "Lifes Ambrosia"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 50,
+      "id": 177875,
+      "imageUrl": "https://spoonacular.com/recipeImages/177875-556x370.jpg",
+      "ingredients": [
+        "0.75 cup of evaporated milk",
+        "0.75 cup of fat-free chicken broth",
+        "3.0 tablespoons of flour",
+        "1.0 cup of onions",
+        "2.0 cups of peas",
+        "0.125 teaspoon of pepper",
+        "0.5 teaspoon of salt",
+        "8.0  of skinless boneless chicken thighs",
+        "1.0 tablespoon of vegetable oil"
+      ],
+      "instructions": [
+        "1",
+        "Sprinkle chicken thighs with salt and pepper. In 4-quart Dutch oven, heat oil over medium-high heat until hot.",
+        "Add chicken in batches; cook 4 to 6 minutes or until browned on both sides.",
+        "Remove chicken from Dutch oven.",
+        "2",
+        "Add onions to Dutch oven; cook 3 to 4 minutes, stirring frequently, until tender.",
+        "Add chicken and broth; reduce heat to low. Cover; cook 25 to 30 minutes or until juice of chicken is clear when center of thickest part is cut (180F).",
+        "Remove chicken; place on platter. Cover with foil to keep warm.",
+        "3",
+        "In small bowl, mix milk and flour until smooth. Beating with wire whisk, add flour mixture to cooking juices in Dutch oven. Increase heat to medium.",
+        "Add peas and tarragon; cook about 5 minutes, stirring frequently, until peas are tender and sauce has thickened slightly.",
+        "Pour mixture over chicken."
+      ],
+      "name": "Spring Chicken with Peas and Onions",
+      "sourceLink": "http://www.BettyCrocker.com/recipes/spring-chicken-with-peas-and-onions/dea4bda1-2c25-4c58-ad9d-9722f9291f10",
+      "sourceName": null
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 55,
+      "id": 174754,
+      "imageUrl": "https://spoonacular.com/recipeImages/174754-556x370.jpg",
+      "ingredients": [
+        "0.25 cup of blue cheese dressing",
+        "0.5 cup of buffalo wing sauce",
+        "14.5 oz of canned tomatoes",
+        "1.0 cup of celery",
+        "0.5 cup of rice",
+        "1.0 lb of skinless boneless chicken breasts",
+        "1.0 tablespoon of vegetable oil",
+        "1.0 cup of water"
+      ],
+      "instructions": [
+        "1",
+        "Cook rice in water 20 minutes as directed on package. Meanwhile, heat oven to 350\u00b0F. In 12-inch skillet, heat oil over medium-high heat.",
+        "Add chicken and celery; cook 5 to 7 minutes, stirring frequently, until chicken is no longer pink in center.",
+        "Remove from heat. Open can of tomatoes; cut up tomatoes in can. Stir tomatoes and wing sauce into chicken mixture.",
+        "2",
+        "Spray 8-inch square baking dish with cooking spray. Spoon cooked rice into dish.",
+        "Spread chicken mixture over rice (do not stir).",
+        "3",
+        "Bake 25 to 30 minutes or until hot in center.",
+        "Drizzle dressing over top."
+      ],
+      "name": "Buffalo Chicken Casserole",
+      "sourceLink": "https://www.bettycrocker.com/recipes/buffalo-chicken-casserole/9f2cf11c-2dcd-4d16-86e4-581e19b9160c",
+      "sourceName": "Betty Crocker"
+    },
+    {
+      "cookTimeHours": 1,
+      "cookTimeMinutes": 10,
+      "id": 385181,
+      "imageUrl": "https://spoonacular.com/recipeImages/385181-556x370.jpeg",
+      "ingredients": [
+        "0.3333333333333333 bunch of fresh cilantro leaves",
+        "6.0 servings of garlic powder",
+        "1.5 ounces of green chiles",
+        "21.0 ounce of green enchilada sauce",
+        "0.3333333333333333 bunch of green onions",
+        "1.0  of jalapeno",
+        "0.3333333333333333  of onion",
+        "3.75 pounds of pork",
+        "6.0 servings of salt and pepper"
+      ],
+      "instructions": [
+        "Simmer the pork in large pot of water until tender.",
+        "Drain the pork and return it to the pot.",
+        "Add the enchilada sauce, cilantro, onion, green onion and green chiles and simmer until heated thoroughly."
+      ],
+      "name": "Pork Chili Verde",
+      "sourceLink": "http://www.foodnetwork.com/recipes/pork-chili-verde-recipe0.html",
+      "sourceName": "Foodnetwork"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 567922,
+      "imageUrl": "https://spoonacular.com/recipeImages/567922-556x370.jpg",
+      "ingredients": [
+        "4.0 ounce of canned green chiles",
+        "0.5 teaspoon of garlic salt",
+        "1.0 pound of lean ground beef",
+        "1.0 cup of onion",
+        "0.25 teaspoon of paprika",
+        "0.5 cup of shredded mexican cheese blend",
+        "0.25 cup of sour cream",
+        "1.0  of spaghetti squash",
+        "6.0 servings of tomato",
+        "6.0 servings of season"
+      ],
+      "instructions": [
+        "Preheat oven to 450 degrees.",
+        "Cut the squash in half and clean out the seeds with a spoon. Lay flesh side down on foil in a baking sheet and cook for 20 minutes.",
+        "Remove from oven and using a fork scrape the inside of both sides to create spaghetti squash. Set aside for later use.",
+        "Put the oven temperature at 350 degrees.",
+        "Place the beef in a frying pan on medium heat. Cook until brown and then drain.",
+        "Add the onions, green chiles, garlic salt and paprika to the pan and cook for 5-7 minutes or until onions are tender. Stir in the sour cream and season with salt.",
+        "Add the spaghetti squash to the pan and mix.",
+        "Place everything into a small or medium size casserole dish.",
+        "Bake for 20 minutes remove and top with Mexican cheese and then cook for an additional 5 minutes."
+      ],
+      "name": "Mexican Spaghetti Squash Bake",
+      "sourceLink": "http://www.azestybite.com/mexican-spaghetti-squash-bake/",
+      "sourceName": "A Zesty Bite"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 548754,
+      "imageUrl": "https://spoonacular.com/recipeImages/548754-556x370.jpg",
+      "ingredients": [
+        "1.0 stalk of celery",
+        "2.0 tsp of dijon mustard",
+        "1.0 tsp of fresh dill",
+        "3.0  of hard-boiled eggs",
+        "1.0  of hard-boiled egg",
+        "0.5  of juice of lemon",
+        "1.0 tsp of low fat mayonnaise",
+        "1.0 tbsp of non-fat greek yogurt",
+        "1.0 serving of pepper",
+        "1.0 tbsp of red onions",
+        "0.5 tsp of sea salt"
+      ],
+      "instructions": [
+        "Mash egg and egg white in a small bowl with a fork.Stir in celery, mayonnaise, mustard, onions, dill, lemon juice and salt and pepper until combined."
+      ],
+      "name": "Egg Salad \u2013 4 Points",
+      "sourceLink": "http://www.laaloosh.com/2011/03/24/egg-salad-recipe/",
+      "sourceName": "Laa Loosh"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 30,
+      "id": 778938,
+      "imageUrl": "https://spoonacular.com/recipeImages/778938-556x370.jpg",
+      "ingredients": [
+        "2.0  of sausage links",
+        "0.5 cup of bbq sauce",
+        "2.0  of jalapenos",
+        "1.0 tablespoon of olive oil",
+        "1.0 cup of pepper jack cheese",
+        "1.0  of pizza dough",
+        "4.0 servings of salt",
+        "2.0 cups of shredded chicken",
+        "1.0 cup of shredded mozzarella cheese"
+      ],
+      "instructions": [
+        "Preheat oven to 430 degrees.",
+        "Rollout dough and place into a 15 inch pizza pan.",
+        "Brush pizza dough with olive oil and sprinkle lightly with salt.",
+        "Bake in preheated oven for 5 minutes.",
+        "Remove pizza crust from oven, spread BBQ sauce over the top. Sprinkle with pepper jack and mozzarella cheeses. Layer chicken and andouille over the cheese and top with jalapeos.",
+        "Bake in preheated oven for 12 - 15 minutes or until cheese is melted and crust is browned. Allow to cool several minutes, slice and serve"
+      ],
+      "name": "Andouille and BBQ Chicken Pizza",
+      "sourceLink": "http://www.lifesambrosia.com/andouille-and-bbq-chicken-pizza-recipe/",
+      "sourceName": "Lifes Ambrosia"
+    },
+    {
+      "cookTimeHours": 1,
+      "cookTimeMinutes": 0,
+      "id": 566228,
+      "imageUrl": "https://spoonacular.com/recipeImages/566228-556x370.jpg",
+      "ingredients": [
+        "6.0 ounces of baby spinach",
+        "2.0 tablespoons of butter",
+        "3.0  of garlic cloves",
+        "0.25 cup of milk",
+        "2.0 tablespoons of olive oil",
+        "0.5 cup of parmesan cheese",
+        "3.0 cups of penne pasta",
+        "4.0 servings of salt and pepper",
+        "0.5 cup of shredded cheddar cheese",
+        "0.5 cup of shredded mozzarella cheese",
+        "1.0 pound of skinless boneless chicken breast halves",
+        "2.0 cups of tomato sauce"
+      ],
+      "instructions": [
+        "Preheat oven to 375.Grease a casserole dish with baking spray; set aside.Cook pasta according to the directions on the box.",
+        "Drain pasta and return to pot; stir in cheese, butter, and 1/4 cup milk; add more milk if needed. Continue to stir until smooth and well combined.",
+        "Transfer cheesy pasta into previously prepared baking dish and set aside.",
+        "Pour 3 tablespoons olive oil in a skillet and cook over medium heat.",
+        "Add cubed chicken and cook until done; about 6 to 8 minutes, stirring occasionally. Set chicken aside.In a saucepan, add olive oil and cook over medium-high heat.",
+        "Add spinach, minced garlic and season with salt and pepper; cook 2 minutes, or until spinach is wilted, stirring frequently.",
+        "Add cooked chicken to spinach and stir in tomato sauce; cook over medium-high heat until heated through. Spoon chicken and spinach mixture over pasta.Top with shredded mozzarella and parmesan cheese.Cook for 15 to 20 minutes, or until bubbly.",
+        "Remove from oven.",
+        "Let stand 5 minutes.",
+        "Serve."
+      ],
+      "name": "Cheesy Chicken Pasta Bake",
+      "sourceLink": "http://diethood.com/2014/03/09/cheesy-chicken-pasta-bake/",
+      "sourceName": "Diethood"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 30,
+      "id": 680225,
+      "imageUrl": "https://spoonacular.com/recipeImages/680225-556x370.jpg",
+      "ingredients": [
+        "0.5 tsp of basil",
+        "1.0 loaf of bread",
+        "0.125 tsp of garlic powder",
+        "8.0 oz of mozzarella",
+        "1.0 cup of olives",
+        "0.5 tsp of oregano",
+        "2.0  of roma tomatoes",
+        "0.5 lb of sausage",
+        "1.0 cup of spinach",
+        "1.0 Tbsp of tomato paste",
+        "8.0 oz of tomato sauce"
+      ],
+      "instructions": [
+        "To prepare the pizza sauce, combine the tomato sauce, tomato paste, oregano, basil, and garlic powder in a bowl. Stir until the tomato paste is dissolved in the tomato sauce. Warm the sauce in the microwave or in a small pot to help them combine, if necessary. Set the sauce aside to allow the flavors to blend while you prepare the rest of the pizza toppings.Preheat the oven to 375 degrees. Brown the Italian sausage and pour off any excess grease. Thaw the frozen spinach and squeeze out as much moisture as possible. Slice the Roma tomatoes. Grate the mozzarella cheese (if not pre-shredded).",
+        "Cut the loaf of French bread into three equal sections (about 6-7 inches in length, each). Slice each piece open as if to build a sandwich.",
+        "Place the six pieces of bread cut side up on two baking sheets. Spoon the sauce onto the surface of each piece and spread it to cover edge to edge.Divide half of the shredded cheese between the six pieces of bread, then top with the browned sausage, spinach, sliced tomatoes, olives, and mushrooms. Top the pizzas with the second half of the cheese. Lightly press the toppings into the French bread, if needed, to help keep them from falling off.",
+        "Bake the pizzas in a preheated 375 degree oven for 15 minutes, or until the cheese is melty and lightly golden brown. If you intend to eat the pizzas later, bake half way (until the cheese is melted and \"glues\" the toppings down) then let the pizzas cool at room temperature. Once cool, transfer them to a gallon sized food storage bag and refrigerate until ready to eat.To reheat the refrigerated pizzas, heat the oven to 375 degrees, place the pizza on a baking sheet, and bake for 5-10 minutes, or until the cheese is melty and the crust is crispy."
+      ],
+      "name": "Loaded French Bread Pizza",
+      "sourceLink": "http://www.budgetbytes.com/2015/09/loaded-french-bread-pizza/",
+      "sourceName": "Budget Bytes"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 35,
+      "id": 493580,
+      "imageUrl": "https://spoonacular.com/recipeImages/493580-556x370.jpg",
+      "ingredients": [
+        "5.0 ounce of baby spinach",
+        "0.25 cup of bread crumbs",
+        "15.0 ounce of canned chickpeas",
+        "1.0  of cucumber",
+        "1.0  of egg",
+        "4.0 tablespoons of extra virgin olive oil",
+        "0.3333333333333333 cup of feta cheese",
+        "0.25 cup of fresh parsley",
+        "1.0 clove of garlic",
+        "1.0 pound of ground chicken",
+        "1.0  of juice of lemon",
+        "1.0 teaspoon of oregano",
+        "1.0 cup of orzo",
+        "4.0 servings of salt and pepper",
+        "1.0  of tomato"
+      ],
+      "instructions": [
+        "Preheat oven to 450 degrees Fahrenheit. In a large covered saucepan, bring water to a boil over high heat for orzo. Meanwhile, in a large bowl, combine chicken, egg, parsley, bread crumbs, garlic, oregano, salt and pepper. With this mixture, make 24-28 meatballs (about 1-inch in size).",
+        "Place on a large rimmed baking sheet and brush with 1 tablespoon olive oil.",
+        "Bake for 7-10 minutes or until cooked through (165 degrees). While they are in the oven, prepare the orzo according to package directions.",
+        "Drain well and dump into a large bowl. Toss orzo with beans, spinach, and feta. Prepare dressing in a small bowl by whisking together lemon juice and remaining 3 tablespoons olive oil.",
+        "Pour over orzo and toss to combine. Divide salad between four plates. Top with meatballs, sprinkle with cucumber and tomato and serve immediately."
+      ],
+      "name": "Orzo Spinach Salad with Chicken Meatballs and Chickpeas",
+      "sourceLink": "http://www.rachelcooks.com/2013/08/23/spinach-orzo-salad-with-chicken-meatballs-and-chickpeas/",
+      "sourceName": "Rachel Cooks"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 50,
+      "id": 495019,
+      "imageUrl": "https://spoonacular.com/recipeImages/495019-556x370.jpg",
+      "ingredients": [
+        "2.0 tbsp of cilantro",
+        "0.25 c of flour",
+        "4.0 oz of jack cheese",
+        "2.5 c of milk",
+        "1.0 tbsp of olive oil",
+        "0.5 c of panko",
+        "0.125 tsp of pepper",
+        "1.0  of poblano peppers",
+        "0.125 tsp of salt",
+        "5.0 oz of shredded cheddar cheese",
+        "6.0 c of whole-wheat elbow macaroni"
+      ],
+      "instructions": [
+        "Turn on broiler.",
+        "Place poblano peppers on a rimmed baking sheet and broil for about 10 minutes or until skin is blistered and starting to blacken, turning halfway through.",
+        "Place peppers in zip-top bag for 5 minutes.",
+        "Remove from bag and peel; discard stems, seeds and ribs. Chop peppers and set aside. Reduce oven temperature to 400 degrees.",
+        "Combine milk and flour in a large saucepan over high heat, whisking constantly. Once mixture comes to a boil, reduce heat and simmer until thickened, 5-8 minutes, continuing to whisk frequently.",
+        "Remove from heat.",
+        "Add 4 ounces of cheddar cheese and 3 ounces of Monterrey jack cheese and whisk until melted. Stir in macaroni, poblano peppers, and salt to taste. Divide mac & cheese into 6 large ramekins or mini cocottes sprayed with oil or cooking spray (you can also use a casserole dish if you don't have ramekins). In a small bowl, stir together panko, olive oil, salt and pepper. Top ramekins with reserved cheese and then panko.",
+        "Bake for 10-15 minutes, or until panko is golden brown. Sprinkle with chopped cilantro."
+      ],
+      "name": "Roasted Poblano Mac & Cheese",
+      "sourceLink": "http://ohmyveggies.com/recipe-roasted-poblano-mac-cheese/",
+      "sourceName": "Oh My Veggies"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 609690,
+      "imageUrl": "https://spoonacular.com/recipeImages/609690-556x370.jpg",
+      "ingredients": [
+        "0.5 teaspoon of black pepper",
+        "1.0 tablespoon of butter",
+        "0.5 teaspoon of cayenne pepper",
+        "1.5 tablespoons of cornstarch",
+        "0.5 teaspoon of dried thyme",
+        "2.0 cloves of garlic",
+        "1.0 teaspoon of garlic powder",
+        "4.0 ounces of light cream cheese",
+        "0.5 cup of low sodium chicken broth",
+        "1.0 cup of milk",
+        "12.0 ounces of noodles",
+        "2.0 teaspoons of oil",
+        "0.5 teaspoon of onion powder",
+        "0.5 teaspoon of oregano",
+        "1.25 teaspoon of paprika",
+        "2.0  of red bell peppers",
+        "1.0 teaspoon of salt",
+        "4.0 servings of salt and pepper",
+        "1.5 pounds of skinless boneless chicken breasts",
+        "1.0  of yellow onion"
+      ],
+      "instructions": [
+        "Mix together all the seasoning spices in a small bowl and toss all but 1 teaspoon of the mixture with the chicken pieces, reserving the 1 teaspoon for later.. Bring a large pot of salted water to a boil and cook the noodles according to package directions. While the noodles are boiling, heat the oil in a large nonstick skillet over medium to medium-high heat until the oil is hot and rippling.",
+        "Add the seasoned chicken pieces in a single layer and cook until golden on each side and cooked through, 3-5 minutes.",
+        "Remove to a plate and set aside, leaving as much liquid in the pan as possible. Return the skillet to medium heat and add the peppers and onions. Sprinkle the reserved spice mixture over the top and cook for 4-5 minutes, stirring often, until the onions are softened. Scrape the veggies on top of the chicken.Return the skillet to the heat and make the sauce by adding the butter and garlic. Stir constantly for 30 seconds or so until the garlic is fragrant.",
+        "Add the cream cheese in large pieces and whisk or stir until smooth and thick. In a large liquid measuring cup, whisk together the milk, broth and cornstarch until well combined. Gradually pour this mixture into the skillet, whisking vigorously to avoid lumps. Bring the mixture to a simmer, stirring constantly, and cook for 2-3 minutes until the sauce is slightly thickened.",
+        "Add salt and pepper to taste (I'd suggest about 1/4 teaspoon each and work up from there as needed).",
+        "Add the chicken, peppers and onions and stir to coat with sauce.",
+        "Remove from the heat. Once the noodles are finished cooking, drain and return to the pot.",
+        "Pour the sauce mixture over the top and toss to coat the noodles with sauce.",
+        "Serve immediately, garnishing with green onions, if desired."
+      ],
+      "name": "Lightened Up Creamy Cajun Chicken Pasta",
+      "sourceLink": "http://www.melskitchencafe.com/lightened-up-creamy-cajun-chicken-pasta/",
+      "sourceName": "Mels Kitchen Caf\u00e9"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 20822,
+      "imageUrl": "https://spoonacular.com/recipeImages/20822-556x370.jpg",
+      "ingredients": [
+        "0.5 teaspoon of caraway seeds",
+        "1.25 cups of carrots",
+        "1.0  of celery stalk",
+        "4.5 teaspoons of coarse kosher salt",
+        "1.0 teaspoon of coriander seeds",
+        "10.0 ounce of couscous",
+        "1.0 teaspoon of cumin seeds",
+        "1.0 teaspoon of dried mint",
+        "2.0 tablespoons of fresh cilantro",
+        "3.0  of garlic cloves",
+        "1.0  of lemon",
+        "0.5 cup of lemon juice",
+        "0.75 cup of oil cured black olives",
+        "3.0 tablespoons of olive oil",
+        "1.5 cups of onion",
+        "0.25 cup of parsley",
+        "0.5 teaspoon of red pepper",
+        "1.25 pounds of red-skinned sweet potatoes",
+        "6.0 servings of chickpeas",
+        "0.25 cup of sun-dried tomatoes",
+        "1.5 tablespoons of tomato paste",
+        "0.25 teaspoon of turmeric",
+        "1.0 pound of turnips",
+        "4.0 cups of water"
+      ],
+      "instructions": [
+        "Toast coriander, cumin, and caraway seeds in small skillet over medium heat until beginning to brown, about 2 minutes. Cool.",
+        "Transfer to spice mill; process until finely ground.",
+        "Transfer to small bowl.",
+        "Add red pepper, turmeric, and 1/2 teaspoon salt.",
+        "Mix lemon slices, lemon juice, and 4 teaspoons coarse salt in small skillet. Bring to boil. Reduce heat, cover, and simmer until lemon slices are almost tender, about 10 minutes. Cool preserved lemon.",
+        "Drain and chop. DO AHEAD Spice blend and preserved lemon can be made 1 week ahead. Store spice blend airtight at room temperature.",
+        "Transfer preserved lemon to small bowl; cover and chill.",
+        "Heat olive oil in heavy large pot over medium-high heat.",
+        "Add onion; sprinkle with salt and saut until beginning to soften, about 5 minutes.",
+        "Add toasted spice blend, garlic, and tomato paste; stir 1 minute.",
+        "Add carrots and celery; stir 2 minutes.",
+        "Add chopped preserved lemon, 4 cups water, sweet potatoes, turnips, olives, and sun-dried tomatoes. Simmer with lid ajar until vegetables are tender, stirring occasionally, about 35 minutes. Stir in parsley, cilantro, and mint. Season to taste with salt and pepper.",
+        "Remove from heat and let stand 10 minutes to allow flavors to blend. Spoon couscous into large bowl, spreading out to edges and leaving well in center. Spoon vegetable tagine into well in center. Sprinkle Spice-Roasted Chickpeas  over and serve."
+      ],
+      "name": "Root Vegetable Tagine with Sweet Potatoes, Carrots, Turnips, and Spice-Roasted Chickpeas",
+      "sourceLink": "http://www.bonappetit.com/recipes/2010/10/root_vegetable_tagine_with_sweet_potatoes_carrots_turnips_and_spice_roasted_chickpeas",
+      "sourceName": "Bon Appetit"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 10,
+      "id": 271880,
+      "imageUrl": "https://spoonacular.com/recipeImages/271880-556x370.jpg",
+      "ingredients": [
+        "8.0 slices of deli ham",
+        "4.0  of Kosher Dill",
+        "1.0 Tbsp of mustard",
+        "11.5 oz of pulled pork",
+        "1.0 Tbsp of reduced fat mayo",
+        "4.0  of sub rolls",
+        "4.0  of swiss cheese"
+      ],
+      "instructions": [
+        "Heat panini grill.",
+        "Mix mayo and mustard; spread onto cut sides of rolls.",
+        "Fill with remaining ingredients.",
+        "Grill 3 min. or until golden brown."
+      ],
+      "name": "Cuban-Style Pulled Pork Panini",
+      "sourceLink": "http://www.kraftrecipes.com/recipes/cuban-style-pulled-pork-panini-138816.aspx",
+      "sourceName": "Kraft Recipes"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 15,
+      "id": 615458,
+      "imageUrl": "https://spoonacular.com/recipeImages/615458-556x370.jpg",
+      "ingredients": [
+        "3.0 tbsp of all purpose flour",
+        "0.25 tsp of black pepper",
+        "4.0 cups of elbow macaroni",
+        "2.25 cups of fat-free milk",
+        "0.25 cup of low-fat cream cheese",
+        "1.0 tsp of salt",
+        "1.25 cups of shredded cheddar cheese"
+      ],
+      "instructions": [
+        "Cook noodles according to direction. Once cooked, drain, rinse with cold water, set aside.While noodles are cooking, start the cheese sauce. In a large pot add flour, salt and pepper, stir in milk. Drop in cream cheese a teaspoon at a time; whisking until melted, bring to a boil. Reduce heat and let it simmer for 2 minutes. Stir in cheddar cheese, until melted. Taste test it, I felt I needed to add a pinch more salt & pepper.",
+        "Add cooked noodles to cheese sauce and mix until combined."
+      ],
+      "name": "Lightened Up Macaroni and Cheese",
+      "sourceLink": "http://www.peanutbutterandpeppers.com/2014/09/30/lightened-up-macaroni-and-cheese/",
+      "sourceName": "Peanut Butter and Peepers"
+    },
+    {
+      "cookTimeHours": 6,
+      "cookTimeMinutes": 20,
+      "id": 969463,
+      "imageUrl": "https://spoonacular.com/recipeImages/969463-556x370.jpg",
+      "ingredients": [
+        "16.0 ounce of coleslaw mix",
+        "1.0 teaspoon of garlic",
+        "1.5 pounds of ground sirloin",
+        "3.0 cups of instant brown rice",
+        "0.25 cup of light brown sugar",
+        "24.0 ounce of marinara sauce",
+        "1.0  of onion",
+        "0.25 teaspoon of pepper"
+      ],
+      "instructions": [
+        "In 3 1/2-6 quart slow cooker, insert plastic liner if desired. In large skillet, cook meat, onion, and garlic over medium heat until meat is done, about 7 minutes.",
+        "Drain any excess liquid.",
+        "Add pepper.",
+        "Add meat with remaining ingredients to slow cooker. Cover and cook on LOW 4-6 hours."
+      ],
+      "name": "Make this Cabbage Roll Casserole in your Crock-Pot",
+      "sourceLink": "https://www.thismamacooks.com/2018/01/cabbage-roll-casserole-crock-pot-recipe.html",
+      "sourceName": "This Mama Cooks"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 35,
+      "id": 580621,
+      "imageUrl": "https://spoonacular.com/recipeImages/580621-556x370.jpg",
+      "ingredients": [
+        "1.0  of avocado",
+        "4.0 slices of cheddar cheese",
+        "2.0  of ciabatta rolls",
+        "0.5  of eggplant",
+        "1.0 tablespoons of grapeseed oil",
+        "4.0  of kale",
+        "1.0 dash of salt"
+      ],
+      "instructions": [
+        "Preheat oven to 375\u00b0F.Slice half of the eggplant into \u00bc\u201d rounds, leaving the skin on, and coat both sides of the slices with grapeseed or olive oil.",
+        "Place eggplant slices on a parchment-lined baking sheet and sprinkle lightly with salt.Roast the eggplant in the oven for 10 minutes.",
+        "Remove from the oven, flip the eggplant slices and roast another 10 minutes. Again, remove the eggplant from the oven, flip the slices over and cook until eggplant is soft, appears moist and is slightly browned, about another 3 to 5 minutes.While eggplant is roasting, slice the ciabatta rolls in half (hamburger-wise).",
+        "Place them on a cookie sheet cut-side up and put them in the oven with the eggplant.Allow the rolls to crisp up and brown slightly. Once they\u2019re a little toasted, remove them from the oven, smear all slices with kale pesto, put the cheese on top of the pesto and put them back in the oven until the cheese is melted.",
+        "Remove eggplant and bread from the oven. Once the eggplant is cool enough to handle, prepare your sandwiches by adding desired amount of eggplant and avocado.",
+        "Cut in half and enjoy with soup or salad!"
+      ],
+      "name": "Eggplant Sandwich: Roasted, Drizzled with Kale Pesto",
+      "sourceLink": "http://www.foodfanatic.com/2013/03/eggplant-sandwich-roasted-drizzled-with-kale-pesto/",
+      "sourceName": "Food Fanatic"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 5,
+      "id": 535585,
+      "imageUrl": "https://spoonacular.com/recipeImages/535585-556x370.jpg",
+      "ingredients": [
+        "3.0 cups of broccoli florets",
+        "2.0 cups of chicken breast",
+        "4.0 servings of kosher salt",
+        "0.75 cup of milk",
+        "8.0 ounces of pasta shells",
+        "0.25 cup of sun dried tomatoes",
+        "6.0 ounces of laughing cow cheese wedges"
+      ],
+      "instructions": [
+        "In a large pot of boiling salted water, cook pasta according to package instructions.",
+        "Add broccoli to the pot 3 minutes before pasta is cooked through; drain well.",
+        "Heat a large skillet over medium high heat.",
+        "Whisk in milk, sun dried tomatoes and cheese wedges, until smooth, about 1-2 minutes; season with salt and pepper, to taste.",
+        "Add pasta, broccoli and chicken and gently toss to combine.",
+        "Serve immediately."
+      ],
+      "name": "Broccoli Chicken Mac and Cheese",
+      "sourceLink": "http://damndelicious.net/2013/01/15/broccoli-chicken-mac-and-cheese/",
+      "sourceName": "Damn Delicious"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 15,
+      "id": 995072,
+      "imageUrl": "https://spoonacular.com/recipeImages/995072-556x370.jpg",
+      "ingredients": [
+        "2.0  of avocado",
+        "4.0 teaspoons of cajun seasoning",
+        "1.0 tablespoon of cilantro",
+        "1.0 cup of cucumber",
+        "0.25 cup of green onion",
+        "1.0  of jalapeno",
+        "1.0 tablespoon of lemon juice",
+        "1.0 tablespoon of lime juice",
+        "1.0 tablespoon of oil",
+        "1.0 tablespoon of parsley",
+        "0.25 cup of red onion",
+        "24.0 ounce of salmon",
+        "4.0 servings of salt"
+      ],
+      "instructions": [
+        "Heat the oil in a heavy bottom skillet over medium-high heat, add the salmon, seasoned with the cajun seasoning, and cook until deeply golden brown to slightly blackened before flipping and repeating for the other side.",
+        "Mix everything and enjoy on the salmon!",
+        "Mix everything and enjoy on the salmon!"
+      ],
+      "name": "Blackened Salmon with Avocado Salsa",
+      "sourceLink": "https://www.closetcooking.com/2017/01/blackened-salmon-with-avocado-salsa.html?m=1",
+      "sourceName": "Closet Cooking"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 25,
+      "id": 515911,
+      "imageUrl": "https://spoonacular.com/recipeImages/515911-556x370.jpg",
+      "ingredients": [
+        "1.0 cup of bread crumbs",
+        "2.0 Tablespoons of dried basil",
+        "1.0 Tablespoon of dried thyme",
+        "2.0  of eggs",
+        "1.0 cup of flour",
+        "2.0 teaspoons of garlic powder",
+        "2.0 Tablespoons of oregano",
+        "0.5 cup of parmesan cheese",
+        "0.5 teaspoon of pepper",
+        "12.0  of ravioli",
+        "1.0 teaspoon of salt",
+        "1.0 quart of vegetable oil"
+      ],
+      "instructions": [
+        "Preheat vegetable oil in a large, heavy pot over medium-high heat.",
+        "Place flour in one shallow dish and eggs in another. In a third, mix bread crumbs, \u00bc cup Parmesan, oregano, basil, thyme, garlic powder, salt and pepper.In two batches, toss ravioli (or tortellini) in flour, gently shaking off excess. Dip in egg and then in bread crumb mixture. Thread 3 breaded ravioli (or 5 tortellini) onto each skewer.Once oil reaches 350\u00baF, carefully place skewers in pot, two at a time, and fry about 4 to 5 minutes.",
+        "Drain on paper towels and sprinkle with remaining \u00bc cup Parmesan.",
+        "Serve warm, with marinara sauce or basil pesto on the side."
+      ],
+      "name": "Deep-Fried Ravioli On a Stick",
+      "sourceLink": "http://www.justataste.com/2011/06/deep-fried-ravioli-on-a-stick/",
+      "sourceName": "Just a Taste"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 30,
+      "id": 560409,
+      "imageUrl": "https://spoonacular.com/recipeImages/560409-556x370.jpg",
+      "ingredients": [
+        "1.0  of bay leaf",
+        "0.5 tsp of black pepper",
+        "1.0 tbsp of butter",
+        "2.0 tbsp of flour",
+        "4.0 servings of fresh parsley",
+        "3.0 cloves of garlic",
+        "1.75 cups of low sodium chicken broth",
+        "2.0 tbsp of olive oil",
+        "1.0 tsp of salt",
+        "1.0 lb of skinless boneless chicken breasts",
+        "1.0 tbsp of smoked paprika",
+        "2.0 tbsp of tomato paste",
+        "8.0 oz of white button mushrooms",
+        "1.0  of yellow onion",
+        "0.25 cup of yogurt"
+      ],
+      "instructions": [
+        "In a medium bowl toss the cubed chicken with the paprika, salt and pepper. Sprinkle the flour on top of the chicken and toss to coat.",
+        "Heat the olive oil in a large nonstick skillet over medium heat until hot.",
+        "Add the chicken in a single layer and cook until golden brown on each side, tossing occasionally, about 5 minutes. Don't worry if the chicken is not cooked through, it will fully cook later on in the sauce. Scrape the chicken onto a plate and set aside.",
+        "Add the butter to the pan, and stir in the onions and mushrooms.",
+        "Saute the mixture, stirring occasionally and scraping up the browned bits from the chicken, until the onion is translucent and the onions and mushrooms are browned, about 5 minutes.",
+        "Add the garlic and cook for another minute, until fragrant.",
+        "Pour in about \u00bc cup of the chicken broth and deglaze the pan by scraping up any bits from the bottom. Stir in the tomato paste, whisking to combine.",
+        "Add the rest of the chicken broth and the bay leaf, stirring well.",
+        "Add the chicken back into the skillet and simmer the mixture over medium-low to medium heat, until the chicken is cooked through and the sauce thickens slightly, about 5-6 minutes. Stir in the yogurt (or creme fraiche or sour cream) and cook for about 2-3 minutes longer. I used sour cream in mine.",
+        "Let the mixture simmer for 2-3 minutes until thickened.",
+        "Serve over mashed potatoes, egg noodles or rice and garnish with fresh parsley, if desired."
+      ],
+      "name": "Paprikash Chicken Stroganoff",
+      "sourceLink": "http://www.jocooks.com/main-courses/poultry-main-courses/paprikash-chicken-stroganoff/",
+      "sourceName": "Jo Cooks"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 690094,
+      "imageUrl": "https://spoonacular.com/recipeImages/690094-556x370.jpg",
+      "ingredients": [
+        "2.0 tbsp of all purpose flour",
+        "12.0 oz of angel hair pasta",
+        "2.0 tbsp of butter",
+        "2.0  of chicken breasts",
+        "14.5 oz of chicken broth",
+        "1.0 tsp of creole seasoning",
+        "4.0 oz of green chilies",
+        "8.0 oz of jack cheese",
+        "1.0 tbsp of olive oil",
+        "1.0  of onion",
+        "0.5 cup of sour cream"
+      ],
+      "instructions": [
+        "Fill a large pot with water and bring to a boil for pasta.In another large pot, heat olive oil and butter over medium-high heat.",
+        "Add chopped onion and green chilies.  Season with 1/2 tsp. creole seasoning and saute for about 7 minutes or until onions are clear.",
+        "Add flour and stir for about a minute.Stir in chicken broth.  Bring mixture to a boil and then add chicken, seasoned with 1/2 tsp creole seasoning.  Cook over medium heat for about 15 to 20 minutes.  (Keep mixture at a simmer).While chicken is cooking, boil pasta and drain. Once chicken is cooked, add sour cream and 1 cup shredded cheese to chicken mixture and stir.",
+        "Let simmer for 5 minutes.",
+        "Add pasta and stir to evenly coat with sauce.",
+        "Serve with a little shredded cheese on top, cilantro, and black olives."
+      ],
+      "name": "White Chicken Enchilada Pasta",
+      "sourceLink": "http://www.julieseatsandtreats.com/white-chicken-enchilada-pasta-recipe/",
+      "sourceName": "Julies Eats and Treats"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 20,
+      "id": 454668,
+      "imageUrl": "https://spoonacular.com/recipeImages/454668-556x370.jpg",
+      "ingredients": [
+        "2.0  of avocados",
+        "2.0 tablespoons of balsamic vinegar",
+        "1.0 teaspoon of black pepper",
+        "16.0  of cherry tomatoes",
+        "1.0 teaspoon of chili powder",
+        "0.5 tablespoon of dijon mustard",
+        "1.0  of grapefruit",
+        "2.0 tablespoons of honey",
+        "2.0 tablespoons of mayonnaise",
+        "8.0 cups of mixed greens",
+        "2.0  of nectarines",
+        "4.0  of pork chops",
+        "0.375 cup of salad oil",
+        "1.0 teaspoon of salt",
+        "4.0 servings of salt and pepper",
+        "2.0 tablespoons of slivered almonds"
+      ],
+      "instructions": [
+        "For the Vinaigrette: In a blender, combine all ingredients except oil. Blend at medium speed for one minute. Next, with blender at medium speed, pour oil very slowly into blender.",
+        "Add salt and pepper.",
+        "For each serving, toss 2 cups greens with 2 tablespoons dressing, top with 4 cherry tomatoes, 1 sliced pork chop, 1/2 avocado, sliced in wedges, 1/2 nectarine sliced in wedges, 1/4 grapefruit segments.",
+        "Drizzle with more dressing and sprinkle with toasted almonds.",
+        "Serve immediately."
+      ],
+      "name": "BBQ Pork Salad with Summer Fruits and Honey Balsamic Vinaigrette",
+      "sourceLink": "http://allrecipes.com/Recipe/BBQ-Pork-Salad-with-Summer-Fruits-and-Honey-Balsamic-Vinaigrette/",
+      "sourceName": "Allrecipes"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 30,
+      "id": 572706,
+      "imageUrl": "https://spoonacular.com/recipeImages/572706-556x370.php",
+      "ingredients": [
+        "1.0 tablespoon of balsamic vinegar",
+        "0.25 cup of brown sugar",
+        "2.0 pounds of chicken breast",
+        "2.0 cloves of garlic",
+        "0.5 cup of honey",
+        "0.25 cup of ketchup",
+        "0.5 cup of low sodium soy sauce",
+        "8.0 servings of pepper",
+        "8.0 servings of salt",
+        "2.0 tablespoons of sesame oil",
+        "1.0 tablespoon of sriracha"
+      ],
+      "instructions": [
+        "Preheat the oven to 375F.Spray a casserole dish with cooking spray.",
+        "Mix all of the ingredients except salt and pepper and let them marinate for about 15 minutes while the oven is preheating. Turn the chicken often to make sure all sides get marinated.",
+        "Put the chicken in the casserole dish.Season it with the salt and pepper.Bring the marinade to a boil and reduce it by about 1/4 \u2013 maybe five minutes.",
+        "Add the marinade to the chicken and bake for 30 minutes, or until the chicken registers 160F in the middle of the breast.",
+        "Brush with the marinade often during baking.If, when the chicken is done, the marinade isn\u2019t as thick as you\u2019d like it to be you can reduce it on the stove until it is as thick as you like. Just be careful that it doesn\u2019t scorch.You can also dump this whole thing into a slow cooker for 6- 8 hours. It won\u2019t be as pretty but it will be every bit as delicious! Some slow cookers heat differently than others to monitor yours the first time you make it."
+      ],
+      "name": "Easy Caramelized Chicken Breasts",
+      "sourceLink": "http://www.restlesschipotle.com/2013/02/easy-caramelized-chicken-breasts/",
+      "sourceName": "Restless Chipotle"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 30,
+      "id": 195439,
+      "imageUrl": "https://spoonacular.com/recipeImages/195439-556x370.jpg",
+      "ingredients": [
+        "1.0 stick of burger skillet",
+        "8.0 oz of cream cheese",
+        "1.0  of egg yolk",
+        "4.0  of eggs",
+        "1.0 cup of flour",
+        "2.0 tsp of lemon juice",
+        "1.0 cup of lowfat ricotta cheese",
+        "0.75 cup of milk",
+        "1.0 pinch of salt",
+        "0.25 cup of sugar",
+        "1.0 tsp of vanilla",
+        "8.0 servings of vegetable oil",
+        "0.25 cup of water"
+      ],
+      "instructions": [
+        "Save Recipe",
+        "Print Recipe",
+        "Cheese Blintzes",
+        "Blintz Ingredients4 eggs1 cup flour1/3 cup sugar3/4 cup milk1/4 cup water1 tsp vanilla",
+        "Pinch of salt",
+        "Nonstick cooking oil spray",
+        "Vegetable oil with a high smoke point for frying (grapeseed or peanut oil works best)You will also need",
+        "Nonstick skillet",
+        "Filling Ingredients1 cup lowfat ricotta cheese1 package (8 oz.) cream cheese1/4 cup sugar1 egg yolk2 tsp  fresh lemon juice1 tsp vanilla",
+        "Pinch of salt",
+        "Total Time: 30 Minutes",
+        "Servings: 8-9 blintzes",
+        "Kosher Key: Dairy"
+      ],
+      "name": "Cheese Blintzes",
+      "sourceLink": "http://theshiksa.com/2010/05/19/shiksa-blintzes/",
+      "sourceName": "The Shiksa in the Kitchen"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 770119,
+      "imageUrl": "https://spoonacular.com/recipeImages/770119-556x370.jpg",
+      "ingredients": [
+        "12.0  of eggs",
+        "0.25 cup of green onion",
+        "1.0 cup of mushrooms",
+        "0.5 teaspoon of sea salt",
+        "1.5 cups of shredded cheese",
+        "1.0 cup of spinach"
+      ],
+      "instructions": [
+        "Preheat the oven to 350F. Crack eggs into a liquid measuring cup.",
+        "Whisk the eggs and salt.Grease a 12-cup muffin pan with ghee. Divide spinach, mushrooms, green onion, and cheese between each muffin cup, then carefully pour eggs over tops until muffin tins are almost full (leave 1/4-inch space).",
+        "Bake for 20-25 minutes or until a wooden pick inserted in the center of a muffin comes out clean. The egg muffins will look like souffl when they come out of the oven, but they will sink after a few minutes.",
+        "Let them rest in the muffin tin for a few minutes before using a rubber spatula to carefully remove each muffin.Consume immediately or let cool and transfer to a resealable plastic bag. Refrigerate for up to a week or freeze for a month."
+      ],
+      "name": "Easy Egg and Cheese Muffin",
+      "sourceLink": "http://www.popsugar.com/food/Easy-Egg-Cheese-Muffin-Recipe-37754806",
+      "sourceName": null
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 260071,
+      "imageUrl": "https://spoonacular.com/recipeImages/260071-556x370.jpg",
+      "ingredients": [
+        "1.0 teaspoon of baking soda",
+        "0.5 cup of buttermilk",
+        "2.0  of eggs",
+        "8.0 ounces of flour",
+        "1.0 teaspoon of ginger",
+        "0.5 cup of granulated sugar",
+        "0.5 cup of molasses",
+        "0.5 teaspoon of nutmeg",
+        "0.25 teaspoon of salt",
+        "4.0 ounces of unsalted butter",
+        "0.5 teaspoon of vanilla extract",
+        "0.5 tablespoon of water"
+      ],
+      "instructions": [
+        "Preheat the oven to 375 degrees F. Spray a 36 hole mini muffin pan with cooking spray. Most pans have 24 holes, so you can bake 24 first and then bake 12 later or spray two pans.",
+        "Mix the flour, ginger and nutmeg together and set aside.In a mixing bowl, beat the butter, salt and sugar until creamy. Beat in the vanilla, then beat in the eggs.In a liquid measuring cup, mix the molasses, water and buttermilk. Now add the baking soda and stir well \u2013 the liquid mixture should foam a little bit and lighten as the baking soda reacts. It might take a minute or two.With a heavy duty spatula or mixing spoon, add the flour mixture and milk mixture to the batter alternately, stirring until blended.",
+        "Pour or spoon batter into muffin cups (it should come a little over halfway full) and bake at 375 F for 8 to 10 minute or until muffins are set and a toothpick inserted comes out clean."
+      ],
+      "name": "Mini Ginger Muffins",
+      "sourceLink": "http://www.cookiemadness.net/2012/07/mini-ginger-muffins/",
+      "sourceName": "Cookie Madness"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 7,
+      "id": 585281,
+      "imageUrl": "https://spoonacular.com/recipeImages/585281-556x370.jpg",
+      "ingredients": [
+        "1.0 teaspoon of baking powder",
+        "1.0 teaspoon of cinnamon",
+        "1.0  of egg",
+        "0.25 cup of flour",
+        "3.0 tablespoons of light brown sugar",
+        "1.0 tablespoon of old-fashioned oats",
+        "2.0  of strawberries",
+        "1.0 teaspoon of vanilla extract",
+        "2.0 tablespoons of vegetable oil"
+      ],
+      "instructions": [
+        "Generously oil a large mug. Two smaller mugs would probably work too \u2013 just watch the cooking time.In a medium bowl, stir together flour, baking powder, cinnamon, and light brown sugar.",
+        "Add oil, egg, and vanilla, and mix to combine.",
+        "Add the strawberries and mix to combine.",
+        "Pour into the prepared mug.In a small bowl, stir together oats, sugar, and oil until clumping together.",
+        "Pour on top of batter in mug. Swirl streusel into batter using a fork. Microwave on high for 1-2 minutes until puffed and fully cooked. Do not cook more than 2 minutes. Your cake is mst likely done after 2 even if you don\u2019t think it is. Longer will make it tough and dry.",
+        "Serve immediately. This recipe should not be frozen and it meant to be eaten as soon as it is made."
+      ],
+      "name": "Strawberry Streusel Mug Muffin #MuffinMonday",
+      "sourceLink": "http://piesandplots.net/strawberry-streusel-mug-muffin/",
+      "sourceName": "Pies and Plots"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 20,
+      "id": 512945,
+      "imageUrl": "https://spoonacular.com/recipeImages/512945-556x370.jpg",
+      "ingredients": [
+        "4.0 servings of black pepper",
+        "2.0 cups of corned beef",
+        "0.5 teaspoon of dried thyme",
+        "4.0  of eggs",
+        "1.0 tablespoon of fresh parsley",
+        "0.5 teaspoon of garlic",
+        "0.5 cup of green bell pepper",
+        "2.0 tablespoons of olive oil",
+        "0.5 teaspoon of salt",
+        "0.75 cup of yellow onion",
+        "2.0 cups of yukon gold"
+      ],
+      "instructions": [
+        "Coat a 10\" skillet with 2 tablespoons olive oil and place over medium heat.",
+        "Add diced onion and bell pepper. Cook, stirring occasionally, for about 4 or 5 minutes or until onion and bell pepper have softened.",
+        "Add minced garlic and cook, stirring, for another minute.",
+        "Add the cooked, chopped potatoes. Season the mixture with 1/2 teaspoon dried thyme, 1/2 teaspoon salt, and pepper to taste. Cook for another 4 to 5 minutes, until potato has lightly browned.",
+        "Add chopped corned beef and cook just till corned beef has warmed, about 2 minutes. Press down on the hash with a spatula or wooden spoon to flatten down into the pan. Taste and season with additional salt and pepper, if desired.",
+        "Remove from heat and set pan aside.Cook eggs as desired.",
+        "Serve a cooked egg over each individual portion of hash."
+      ],
+      "name": "Corned Beef Hash",
+      "sourceLink": "http://www.fromvalerieskitchen.com/2014/03/corned-beef-hash/",
+      "sourceName": "From Valeries Kitchen"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 557430,
+      "imageUrl": "https://spoonacular.com/recipeImages/557430-556x370.jpg",
+      "ingredients": [
+        "1.0 tsp of baking soda",
+        "0.75 cup of brown sugar",
+        "1.0 cup of chocolate chips",
+        "1.0  of egg",
+        "1.3333333333333333 cup of flour",
+        "0.5 cup of old fashioned oats",
+        "0.5 cup of peanut butter",
+        "0.5 cup of unsalted butter",
+        "1.0 Tbsp of vanilla bean paste"
+      ],
+      "instructions": [
+        "Set oven to 375FGrease and flour 2 mini muffin pans (or use paper liners)Cream the butter, sugar, and peanut butter together until smooth.  Beat in the egg and vanilla.",
+        "Mix in the flour, baking soda and oats. Fold in the chocolate chips.Fill the muffin cups almost full with a scoop of dough.  I use my 1 1/2 inch scoop to make it easy.",
+        "Bake for about 12-15 minutes until risen and lightly browned.Cool completely in the pan, on a rack before attempting to remove the cookies from the pan.  Run a small blunt knife around the edge of the cookies to loosen them if necessary."
+      ],
+      "name": "Chocolate Chip Peanut Butter Oatmeal Bites",
+      "sourceLink": "http://theviewfromgreatisland.com/2013/09/chocolate-chip-peanut-butter-oatmeal-bites.html",
+      "sourceName": "The View from Great Island"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 17,
+      "id": 611289,
+      "imageUrl": "https://spoonacular.com/recipeImages/611289-556x370.jpg",
+      "ingredients": [
+        "1.5 teaspoons of baking powder",
+        "0.5 cup of butter",
+        "1.0 cup of buttermilk",
+        "2.0  of eggs",
+        "2.0 cups of flour",
+        "1.5 cups of light brown sugar",
+        "1.5 teaspoons of pumpkin pie spice",
+        "1.0 cup of pumpkin puree",
+        "0.5 teaspoon of salt",
+        "1.5 teaspoons of vanilla extract"
+      ],
+      "instructions": [
+        "Preheat oven to 375 F. Prepare muffin tin with liners or by spraying with nonstick baking spray. Sift together flour, baking powder, salt, pumpkin pie spice mix into a large bowl. Set aside.Cream together butter and brown sugar until light and fluffy, about 3 minutes.",
+        "Add in eggs and pumpkin, being sure to incorporate well.",
+        "Add flour mixture about  cup at a time, stirring to combine.",
+        "Add vanilla extract and buttermilk.Spoon pumpkin muffins batter into prepared muffins tins, filling about  full.",
+        "Place in preheated oven and bake until the lightly spring back to the touch and a toothpick comes out clean when inserted in the center, about 12 minutes for mini-muffins and 25-30 minutes for full-size muffins. Allow to cool slightly before serving."
+      ],
+      "name": "Simple Pumpkin Muffins",
+      "sourceLink": "http://addapinch.com/cooking/simple-pumpkin-muffins-recipe/",
+      "sourceName": "Add A Pinch"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 547945,
+      "imageUrl": "https://spoonacular.com/recipeImages/547945-556x370.jpg",
+      "ingredients": [
+        "1.5 cups of all purpose flour",
+        "0.75 teaspoon of baking powder",
+        "2.0  of eggs",
+        "0.6666666666666666 cup of funfetti cake mix",
+        "1.0 cup of icing",
+        "4.0 tbsp of milk",
+        "12.0 servings of sprinkles",
+        "1.0 tablespoon of sugar",
+        "1.0 teaspoon of vanilla extract"
+      ],
+      "instructions": [
+        "Combine flour, cake mix, baking powder, sugar and mix.",
+        "Add 1 cup of milk, egg and vanilla extract and mix until smooth. If too thick, add more milk as needed. You don't want the mix to be too thick or too thin.",
+        "Put desired amount of sprinkles into batter.",
+        "Preheat your pan and add some butter. Allow the butter to melt.",
+        "Add batter in about 1/4 cup measurements to the pan. Cook until bubbles have formed on top, then flip. Continue cooking for about another minute.",
+        "Combine icing and milk. You can add more or less milk depending on how thick you want it.",
+        "Pour icing mix over pancakes. Enjoy!"
+      ],
+      "name": "Funfetti Cake Batter Pancakes with Rainbow Chip Icing Syrup {Funfetti Week}",
+      "sourceLink": "http://www.lifeloveandsugar.com/2012/09/19/funfetti-cake-batter-pancakes-with-rainbow-chip-icing-syrup-funfetti-week/",
+      "sourceName": "Life, Love, and Sugar"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 20,
+      "id": 585214,
+      "imageUrl": "https://spoonacular.com/recipeImages/585214-556x370.jpg",
+      "ingredients": [
+        "2.5 teaspoons of baking powder",
+        "2.0  of eggs",
+        "1.5 cups of flour",
+        "0.75 cup of granulated sugar",
+        "2.0 teaspoons of ground cinnamon",
+        "0.5 teaspoon of kosher salt",
+        "1.0  of orange zest",
+        "0.5 cup of walnuts",
+        "3.0 cups of zucchini"
+      ],
+      "instructions": [
+        "Preheat oven to 350 degrees F. Generously oil ten cups in a muffin tin, including the top. In a medium-small bowl, mix together the flour, baking powder, salt, and cinnamon.In a large bowl, mix together the sugar and oil.",
+        "Mix in the eggs.",
+        "Add the orange zest, and mix to combine.",
+        "Pour the dry ingredients into the wet ingredients; mix with a spoon or spatula. The batter may look really thick, almost like cookie dough; this is okay.",
+        "Add in the zucchini and walnuts.",
+        "Mix until fully incorporated. The batter should not be as thick, and should come together well. Using a regular sized ice cream scoop, fill the oiled muffin cups to the top.",
+        "Bake 20-25 minutes, turning halfway through if necessary, until a toothpick comes out with only a few moist crumbs. Store at room temperature for up to 3 days or wrapped in parchment and foil and placed in a zipper bag in the freezer for up to 4 months. Thaw at room temperature for several hours or in a 350 degree F oven for 15-20 minutes. When warmed in the oven, they will have a crunchy top and be soft inside."
+      ],
+      "name": "Zucchini Muffins",
+      "sourceLink": "http://piesandplots.net/zucchini-muffins/",
+      "sourceName": "Pies and Plots"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 10,
+      "id": 976767,
+      "imageUrl": "https://spoonacular.com/recipeImages/976767-556x370.jpg",
+      "ingredients": [
+        "1.0  of baking powder",
+        "6.0 g of ground flax seed",
+        "60.0 g of quinoa flour",
+        "0.5 tsp of sea salt",
+        "2.0 packets of stevia",
+        "0.5 tsp of vanilla extract",
+        "0.5 cup of water"
+      ],
+      "instructions": [
+        "Mix the ground flaxseed and warm water together in a small bowl and let sit for 3-4 minutes.Thoroughly mix the dry ingredients together in a mixing bowl.",
+        "Add the water and flax mixture and gently fold together until just mixed.",
+        "Let the batter sit for 5 minutes. While it sits, heat a pan over medium.Spray the pan with non-stick cooking spray then scoop the batter into the pan to create your desired size of pancakes. I usually make 5-6 small pancakes but you could go for 3-4 large ones.",
+        "Let them cook until the edges are browning and they look almost cooked through.Flip and cook for another minute or two.",
+        "Serve right away with your favourite pancake toppings."
+      ],
+      "name": "Vegan Quinoa Flour Pancakes",
+      "sourceLink": "https://runningonrealfood.com/vegan-quinoa-flour-pancakes/",
+      "sourceName": "Running on Real Food"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 33,
+      "id": 216148,
+      "imageUrl": "https://spoonacular.com/recipeImages/216148-556x370.jpg",
+      "ingredients": [
+        "2.0  of chocolate eggs",
+        "200.0 g of milk chocolate",
+        "85.0 g of shredded wheat"
+      ],
+      "instructions": [
+        "Melt the chocolate in a small bowlplaced over a pan of barely simmeringwater.",
+        "Pour the chocolate over theshredded wheat and stir well to combine.Spoon the chocolate wheat into 12cupcake cases and press the back of ateaspoon in the centre to create a nestshape.",
+        "Place 3 mini chocolate eggs ontop of each nest. Chill the nests in thefridge for 2 hrs until set."
+      ],
+      "name": "Shredded Wheat nests",
+      "sourceLink": "http://www.bbcgoodfood.com/recipes/2066656/shredded-wheat-nests",
+      "sourceName": "BBC Good Food"
+    },
+    {
+      "cookTimeHours": 3,
+      "cookTimeMinutes": 25,
+      "id": 753327,
+      "imageUrl": "https://spoonacular.com/recipeImages/753327-556x370.jpeg",
+      "ingredients": [
+        "1.5 cups of blueberries",
+        "1.0 ounce of gelatin",
+        "0.5 cup of grapes",
+        "1.0 quart of greek yogurt",
+        "4.0 cups of pomegranate juice",
+        "0.5 cup of pomegranate seeds",
+        "1.5 cups of strawberries"
+      ],
+      "instructions": [
+        "Heat 3 cups of the pomegranate juice in a small saucepan until hot.",
+        "Add the remaining cup of pomegranate juice to a large bowl and sprinkle the gelatin packets over the juice.",
+        "Let sit for 1 minute.",
+        "Add in the hot juice and stir until the gelatin is completely dissolved.",
+        "Pour the mixture into a 9-by-13-inch pan. Sprinkle with the pomegranate seeds and grapes and refrigerate until fully set, at least 3 hours or overnight.",
+        "Put the Greek yogurt in a large bowl and whip with an electric mixer until fluffy.",
+        "Cut the pomegranate gelatin into 1 1/2-inch cubes. Layer the gelatin, whipped yogurt, sliced strawberries and blueberries in 8 parfait or juice glasses."
+      ],
+      "name": "Pomegranate Gelatin Yogurt Parfaits",
+      "sourceLink": "http://www.foodnetwork.com/recipes/pomegranate-gelatin-yogurt-parfaits.html",
+      "sourceName": "Foodnetwork"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 30,
+      "id": 709115,
+      "imageUrl": "https://spoonacular.com/recipeImages/709115-556x370.jpg",
+      "ingredients": [
+        "1.0 C of all purpose flour",
+        "0.25 C of applesauce",
+        "1.5 tsp of baking powder",
+        "0.75 C of carrots",
+        "1.0 tsp of cinnamon",
+        "0.25 C of granulated sugar",
+        "1.0 pinch of ground cloves",
+        "0.25 C of light brown sugar",
+        "0.25 tsp of nutmeg",
+        "0.25 tsp of salt",
+        "1.0 tsp of vanilla extract",
+        "0.5 Tb of vegetable oil",
+        "1.0  of whole egg"
+      ],
+      "instructions": [
+        "Preheat oven to 350F. Line a muffin pan with six paper liners.Finely shred carrots and chop well to eliminate any large pieces.In a large bowl or stand mixer, beat together applesauce, vegetable oil and sugars until fully combined.",
+        "Mix in egg and vanilla, followed by carrots. Scrape the bowl as needed.",
+        "Addremaining dry ingredients, mixing well until no streaks remain.Divide mixture evenly between prepared paper liners, adding 1 heaping large cookie scoop per liner. Liners should be nearly full.",
+        "Bake for 20-22 minutes or until a toothpick inserted comes out clean or with just a few moist crumbs.Cool in pan for several minutes before removing to a wire rack to cool completely.Store in an airtight container for up to several days."
+      ],
+      "name": "Applesauce Carrot Cake Muffins",
+      "sourceLink": "http://www.bakedbyrachel.com/applesauce-carrot-cake-muffins/",
+      "sourceName": "Baked by Rachel"
+    },
+    {
+      "cookTimeHours": 1,
+      "cookTimeMinutes": 15,
+      "id": 828349,
+      "imageUrl": "https://spoonacular.com/recipeImages/828349-556x370.jpg",
+      "ingredients": [
+        "4.0 slices of bacon",
+        "8.0  of eggs",
+        "2.0  of green onions",
+        "1.0 cup of green pepper",
+        "0.5 cup of milk",
+        "0.5 bag of potatoes",
+        "1.0 teaspoon of salt",
+        "0.5 cup of shredded cheddar cheese",
+        "0.5 cup of sour cream"
+      ],
+      "instructions": [
+        "Preheat oven to 400 degrees F and line a baking sheet with foil.",
+        "Bake potatoes for 30 minutes or until tender. Cool completely and chop. (To save time, cook potatoes in the microwave for 5-8 minutes, checking every 3-4 minutes).Reduce oven heat to 350 degrees F and lightly grease a 9x13\" casserole dish.In a large bowl, stir together eggs, sour cream, salt and milk.Stir in cheese, pepper, onions and bacon until combined.",
+        "Pour into prepared casserole dish and bake for 35-40 minutes, until center is set. If edges are browning too quickly, cover with a piece of tin foil and continue baking.",
+        "Serve with additional sour cream, bacon, green onions and cheese if desired."
+      ],
+      "name": "Loaded Baked Potato Breakfast Casserole",
+      "sourceLink": "http://www.thereciperebel.com/loaded-baked-potato-breakfast-casserole/",
+      "sourceName": "The Recipe Rebel"
+    },
+    {
+      "cookTimeHours": 1,
+      "cookTimeMinutes": 5,
+      "id": 542201,
+      "imageUrl": "https://spoonacular.com/recipeImages/542201-556x370.jpg",
+      "ingredients": [
+        "2.0  of carrots",
+        "0.25 teaspoon of dried thyme",
+        "4.0  of eggs",
+        "10.0 ounces of ham",
+        "4.0 tablespoons of olive oil",
+        "2.0 pounds of potatoes",
+        "4.0 servings of salt and pepper",
+        "1.0  of yellow bell pepper",
+        "1.5 cups of yellow onion",
+        "1.0  of zucchini"
+      ],
+      "instructions": [
+        "Preheat oven to 225\u00baF. Bring a large pot of salted water to a boil.",
+        "Add potatoes. Cook for 20-25 minutes, until potatoes are just cooked through.",
+        "Drain potatoes in a colander.",
+        "Let them cool.",
+        "Cut them into \u00bd-inch dice, set aside.",
+        "Heat 2 tablespoons oil in a large cast iron skillet over medium heat. (You can also use a non-stick skillet, but keep a close eye on the heat to ensure the veggies and potatoes don't burn)",
+        "Add onions, peppers, zucchini and carrots. Push them down into the pan in a single layer and leave them undisturbed for 3 minutes to brown. Flip them and leave them for another 2-3 minutes.",
+        "Add corned beef and cook, tossing everything in the skillet for another minute or two. Sprinkle with thyme and a few grinds of black pepper.",
+        "Transfer the mixture to a casserole or heatproof bowl and set aside.",
+        "Add 2 tablespoons oil to the skillet.",
+        "Add potatoes. Press potatoes down into the pan into a single layer. Cook, undisturbed, for 7-8 minutes, until a golden crust is formed on the bottom. Sprinkle potatoes with \u00bd teaspoon salt and several grinds of black pepper and toss.",
+        "Transfer potatoes to the casserole or bowl with rest of the mix. Put it in the oven to keep warm until you're ready to serve.Poach eggs, if using. Divide hash among 4-5 plates and serve with poached eggs on top, if you like. Pass around extra salt and pepper."
+      ],
+      "name": "CORNED BEEF HASH",
+      "sourceLink": "http://www.panningtheglobe.com/2014/03/17/corned-beef-hash/",
+      "sourceName": "Panning The Globe"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 30,
+      "id": 491292,
+      "imageUrl": "https://spoonacular.com/recipeImages/491292-556x370.jpg",
+      "ingredients": [
+        "0.5 tsp of baking powder",
+        "0.5 tsp of baking soda",
+        "1.0  of banana",
+        "0.5 cup of chocolate chips",
+        "0.5 cup of dark chocolate chips",
+        "1.0  of egg",
+        "1.0 cup of flour",
+        "1.0 Tbs of half & half",
+        "0.5 cup of heavy cream",
+        "0.25 cup of peanut butter",
+        "0.25 tsp of salt",
+        "0.5 cup of sugar",
+        "0.5 tsp of vanilla extract"
+      ],
+      "instructions": [
+        "Muffins:Preheat oven to 325 degrees F. Grease a muffin tin.In a small bowl, combine flour, baking powder, baking soda, and salt. Set aside.In a large bowl, add the banana and sugar. Mash to combine.",
+        "Whisk in the peanut butter and half & half.",
+        "Add the egg and vanilla.",
+        "Whisk to combine.Fold in the dry ingredients.",
+        "Add the mini chocolate chips. Fold to combine.Scoop the mixture into the prepared muffin tins, about a third of the way full.",
+        "Bake for 15-20 minutes, or until a toothpick inserted in the center comes out clean."
+      ],
+      "name": "Chocolate Covered Peanut Butter Banana Muffins",
+      "sourceLink": "http://themessybakerblog.com/2012/11/19/chocolate-covered-peanut-butter-banana-muffins/",
+      "sourceName": "The Messy Baker Blog"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 25,
+      "id": 520946,
+      "imageUrl": "https://spoonacular.com/recipeImages/520946-556x370.jpg",
+      "ingredients": [
+        "1.25 t of baking powder",
+        "0.25 cup of brown sugar",
+        "0.3333333333333333 cup of butter",
+        "1.0 t of cinnamon",
+        "1.0  of egg",
+        "1.25 cups of flour",
+        "2.0 T of milk",
+        "0.6666666666666666 cup of plain greek yogurt",
+        "0.25 t of salt",
+        "0.5 cup of sugar",
+        "0.75 cup of sugar",
+        "1.0 t of vanilla"
+      ],
+      "instructions": [
+        "Preheat oven to 350 degrees.  Line muffin pan with papers.In bowl mix together flour, baking powder and salt, set aside. In separate bowl combine brown sugar and cinnamon, set aside also.Beat butter with mixer until fluffy and light, add egg and beat well, next mix in sugar.",
+        "Add in vanilla and yogurt continue to mix until all incorporated.",
+        "Mix in flour mixture.Spoon 1 heaping T of batter into muffin pan, now sprinkle batter with cinnamon sugar mixture.",
+        "Add another T of batter and sprinkle with more cinnamon sugar.",
+        "Bake 15-20 minutes. Muffins are cooked when inserted toothpick comes out clean.  Cool on wire rack after baking.",
+        "Mix glaze ingredients & drizzle with a fork back & forth over top of muffins."
+      ],
+      "name": "Cinnamon Sugar Greek Yogurt Muffins",
+      "sourceLink": "http://whoneedsacape.com/2013/08/cinnamon-sugar-greek-yogurt-muffins/",
+      "sourceName": "Who Needs a Cape"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 20,
+      "id": 375409,
+      "imageUrl": "https://spoonacular.com/recipeImages/375409-556x370.jpg",
+      "ingredients": [
+        "2.0 tablespoons of cornstarch",
+        "0.5 cup of cranberry juice",
+        "8.0  of frozen waffles",
+        "2.0 tablespoons of honey",
+        "16.0 ounces of strawberries"
+      ],
+      "instructions": [
+        "In a large saucepan, combine the strawberries, 1/4 cup cranberry juice and honey. Cook over low heat for 10 minutes, stirring occasionally.",
+        "In a small bowl, combine cornstarch and remaining cranberry juice until smooth; stir into strawberry mixture. Bring to a boil; cook and stir for 2 minutes or until thickened.",
+        "Toast waffles according to package directions; top with warm strawberry sauce."
+      ],
+      "name": "Waffles with Warm Strawberry Sauce",
+      "sourceLink": "http://www.tasteofhome.com/recipes/waffles-with-warm-strawberry-sauce",
+      "sourceName": "Taste of Home"
+    },
+    {
+      "cookTimeHours": 1,
+      "cookTimeMinutes": 0,
+      "id": 519796,
+      "imageUrl": "https://spoonacular.com/recipeImages/519796-556x370.jpg",
+      "ingredients": [
+        "1.0 T of baking powder",
+        "1.0 cup of brown sugar",
+        "3.0 T of butter",
+        "1.0 cup of cereal",
+        "1.0  of egg",
+        "1.0 cup of flour",
+        "1.0 cup of milk",
+        "2.0 cups of mixed berries",
+        "0.25 cup of oil",
+        "1.0 cup of quick cooking oats",
+        "0.5 t of salt",
+        "0.25 cup of walnuts"
+      ],
+      "instructions": [
+        "Mix all ingredients except berries and nuts.Fold in berries and nuts.",
+        "Pour batter into a greased 9 x 1",
+        "Bake at 350 for 45-60 minutes until the cake passes the toothpick test.",
+        "Serve warm"
+      ],
+      "name": "Whole-Grain Blueberry Coffee Cake",
+      "sourceLink": "http://goodenessgracious.com/2011/12/whole-grain-blueberry-coffee-cake.html",
+      "sourceName": "Goodeness Gracious "
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 25,
+      "id": 584556,
+      "imageUrl": "https://spoonacular.com/recipeImages/584556-556x370.jpg",
+      "ingredients": [
+        "0.3333333333333333 cup of avocado",
+        "1.0 tsp of baking powder",
+        "1.0 tsp of baking soda",
+        "0.3333333333333333 cup of cheddar cheese",
+        "1.0 cup of cornmeal",
+        "3.0  of eggs",
+        "0.25 cup of granulated sugar",
+        "1.0 cup of low fat buttermilk",
+        "1.0 tsp of salt",
+        "1.0 cup of whole wheat pastry flour"
+      ],
+      "instructions": [
+        "Preheat oven to 400 degrees F. Coat a 12-cup muffin tin with cooking spray.In a large bowl, whisk together the cornmeal, whole wheat flour, sugar, baking powder, baking soda and salt.In a medium bowl, whisk together the eggs, buttermilk and smashed avocado.Stir the buttermilk mixture into the cornmeal mixture just until combined.Stir in 1/3 cup Cheddar cheese.Using a 1/4 cup measure, divide the batter evenly between the muffin tins. Sprinkle the remaining Cheddar cheese over top of the muffins.",
+        "Bake until a toothpick inserted in the middle of a muffin comes out clean, 10 to 12 minutes.Cool the muffins in the tin for 10 minutes, then remove from the tin and cool completely on a wire rack.",
+        "Serve or store in an airtight container."
+      ],
+      "name": "Healthy Cornmeal Avocado Muffin with Cheddar Cheese",
+      "sourceLink": "http://www.cookincanuck.com/2013/08/healthy-cornmeal-avocado-muffin-recipe-cheddar-cheese/",
+      "sourceName": "Cookin Canuck"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 563306,
+      "imageUrl": "https://spoonacular.com/recipeImages/563306-556x370.jpg",
+      "ingredients": [
+        "0.5  of avocado",
+        "1.0 cup of coconut milk",
+        "2.0 servings of honey",
+        "1.0 cup of ice",
+        "2.0  of juice of lime"
+      ],
+      "instructions": [
+        "Add all ingredients to Vitamix or blender and blend until smooth."
+      ],
+      "name": "Paleo Key Lime Pie Smoothie",
+      "sourceLink": "http://cookeatpaleo.com/paleo-key-lime-pie-smoothie/",
+      "sourceName": "Cook Eat Paleo"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 512470,
+      "imageUrl": "https://spoonacular.com/recipeImages/512470-556x370.jpg",
+      "ingredients": [
+        "12.0 oz of bacon",
+        "3.0 C of cheddar cheese",
+        "12.0 oz of cooked ham",
+        "8.0  of eggs",
+        "0.5 tsp of kosher salt",
+        "3.0 C of milk",
+        "1.0  of onion",
+        "2.0 C of potatoes",
+        "1.0 oz of ranch dressing mix",
+        "12.0 slices of white bread"
+      ],
+      "instructions": [
+        "In a large skillet, cook bacon over medium heat until crisp, remove from pan and drain of all but 2 tbsp of the bacon fat.",
+        "Add potatoes to the hot bacon drippings and cook until just tender-- about 5-7 minutes.",
+        "Add ham and onion. Cook and stir until onion is tender and stir in ranch dressing packet. In a greased 13-in. x 9-in. baking dish, layer half the bread cubes, potatoes mixture, bacon and cheese. Repeat layers of bread, potatoes, meat, and cheese.In a large bowl, beat the eggs; add the milk and salt.",
+        "Pour over all. Cover and chill overnight.",
+        "Remove from refrigerator 30 minutes before baking.",
+        "Bake, uncovered, at 325\u00b0 for 65-70 minutes or until a knife inserted near the center comes out clean."
+      ],
+      "name": "Hearty Ranch Breakfast Strata",
+      "sourceLink": "http://www.heatherlikesfood.com/hearty-ranch-breakfast-strata/",
+      "sourceName": "Heather Likes Food"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 5,
+      "id": 627480,
+      "imageUrl": "https://spoonacular.com/recipeImages/627480-556x370.jpg",
+      "ingredients": [
+        "1.0 cup of berries",
+        "1.0 tablespoon of chia seeds",
+        "0.25 cup of coconut",
+        "1.0 cup of grain blend",
+        "1.0 teaspoon of honey",
+        "1.0 tub of vanilla yogurt"
+      ],
+      "instructions": [
+        "In a bowl, combine all ingredients in the order listed.",
+        "Drizzle with honey and serve."
+      ],
+      "name": "Yogurt Breakfast Bowl",
+      "sourceLink": "http://diethood.com/yogurt-breakfast-bowl/",
+      "sourceName": "Diethood"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 20,
+      "id": 432702,
+      "imageUrl": "https://spoonacular.com/recipeImages/432702-556x370.jpg",
+      "ingredients": [
+        "2.0 teaspoons of baking powder",
+        "2.0 tablespoons of butter",
+        "1.0 tablespoon of cornstarch",
+        "1.0  of egg",
+        "1.0 cups of flour",
+        "1.0 tablespoon of lemon juice",
+        "0.25 cup of milk",
+        "0.5 cup of orange juice",
+        "0.25 teaspoon of salt",
+        "0.5 cup of sugar",
+        "3.0 tablespoons of vegetable oil",
+        "0.75 cup of water"
+      ],
+      "instructions": [
+        "In a large bowl, combine the first four ingredients. In another bowl, combine the egg, orange juice, milk, oil and orange peel; add to dry ingredients just until moistened.",
+        "Pour batter by 1/4 cupfuls onto a lightly greased hot griddle. Turn when bubbles form on top; cook until second side is golden brown.",
+        "For orange sauce, combine sugar, cornstarch and salt in a saucepan. Stir in the remaining ingredients. Bring to a boil; cook and stir for 2 minutes or until thickened.",
+        "Serve warm with pancakes."
+      ],
+      "name": "Sunny Pancakes",
+      "sourceLink": "http://www.tasteofhome.com/recipes/sunny-pancakes",
+      "sourceName": "Taste of Home"
+    },
+    {
+      "cookTimeHours": 1,
+      "cookTimeMinutes": 5,
+      "id": 626496,
+      "imageUrl": "https://spoonacular.com/recipeImages/626496-556x370.jpg",
+      "ingredients": [
+        "175.0 g of blueberries",
+        "2.0 tablespoons of chia seeds",
+        "1.0 tablespoon of coconut oil",
+        "590.0 ml of dairy milk",
+        "0.5 inch of fresh ginger",
+        "2.0 tablespoons of honey",
+        "0.5 teaspoon of lemon juice",
+        "0.125 teaspoon of sea salt",
+        "1.0 tablespoon of water",
+        "175.0 g of wheat-berries"
+      ],
+      "instructions": [
+        "Bring the wheat berries, water, and salt to a boil in a medium saucepan; cover the pot, turn the heat down, and simmer for 45 minutes, stirring occasionally. Turn the heat off and let the porridge sit for an hour (or overnight).Stir in the milk, chia seeds, and coconut oil and bring to a simmer over medium heat; turn the heat off, cover the pot, and let it sit for 10 minutes before serving.Meanwhile, combine all ingredients for the topping in a small saucepan over medium heat. Cover the saucepan, bring it up to a boil, and let it cook for 3 minutes, adjusting the heat down as necessary so it doesnt boil over.",
+        "Serve the Creamy Wheat Berry Porridge with the Gingered Blueberry Topping and coconut milk drizzled on top.Store leftovers in the fridge for up to 5 days. Reheat this porridge on the stovetop while stirring frequently, adding additional water to thin it out as necessary."
+      ],
+      "name": "Creamy Wheat Berry Porridge with Gingered Blueberry Topping {Vegan}",
+      "sourceLink": "http://www.anediblemosaic.com/?p=19441",
+      "sourceName": "An Edible Mosaic"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 602282,
+      "imageUrl": "https://spoonacular.com/recipeImages/602282-556x370.jpg",
+      "ingredients": [
+        "0.5 cup of all purpose flour",
+        "0.5 cup of brown sugar",
+        "0.5 cup of butter",
+        "1.0 tsp of cinnamon",
+        "6.0  of eggs",
+        "1.0 loaf of french bread",
+        "2.0 cups of milk",
+        "1.0 pinch of nutmeg",
+        "0.25 tsp of salt",
+        "0.5 cup of sugar",
+        "1.0 tbsp of vanilla extract"
+      ],
+      "instructions": [
+        "Spray a 12-muffin tin with non-stick cooking spray.",
+        "Cut bread into cubes and fill each muffin tin well up with bread. In a large bowl, whisk together the milk, eggs, sugar, and vanilla. Carefully pour the mixture evenly over each muffin tin, pressing down the bread cubes to allow more liquid to be absorbed. Cover the muffins with plastic wrap and refrigerate for 2 hours or overnight.Preheat the oven 350 degrees and prepare the cinnamon streusel. In a small bowl, combine the flour, brown sugar, cinnamon, salt, nutmeg, and butter and use your fingers or 2 forks to crumble the mixture into coarse crumbs. Sprinkle mixture on top of the muffins evenly.",
+        "Bake muffins for 20-25 minutes, or until the tops are golden brown.",
+        "Let the muffins cool for 5 minutes in the pans, then serve warm with maple syrup."
+      ],
+      "name": "French Toast Muffins",
+      "sourceLink": "http://www.ericasweettooth.com/2014/01/french-toast-muffins.html",
+      "sourceName": "Erica Sweet Tooth"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 20,
+      "id": 572740,
+      "imageUrl": "https://spoonacular.com/recipeImages/572740-556x370.jpg",
+      "ingredients": [
+        "1.0 pinch of ancho chile powder",
+        "1.0 teaspoon of baking soda",
+        "0.6666666666666666 cups of brown sugar",
+        "3.0 tablespoons of butter",
+        "1.0 cup of buttermilk",
+        "1.0  of egg",
+        "3.0 cups of flour",
+        "0.75 teaspoon of ground cinnamon",
+        "1.0 teaspoon of maple flavoring",
+        "1.0 cup of powdered sugar",
+        "0.5  of salt",
+        "0.5 teaspoon of vanilla"
+      ],
+      "instructions": [
+        "Preheat oven to 375\u00b0 F.",
+        "Add the baking soda, brown sugar, salt, maple flavoring,vanilla, and egg into a large mixing bowl.",
+        "Whisk slightly to break up the yolk and then add the buttermilk.",
+        "Whisk until well blended.",
+        "Add the flour and stir until mixed - do not over mix or the muffins will be tough.Turn out the dough onto a lightly floured counter top and knead gently for a minute or so.",
+        "Roll into a 12 x 24 inch rectangle.",
+        "Spread with the 3 tablespoons of the softened butter.",
+        "Mix the sugar, cinnamon, and ancho chile powder together and sprinkle over the butter.",
+        "Roll the dough up into a log.",
+        "Cut into 12 slices.Put each slice in a greased muffin cup.",
+        "Bake for 15 minutes or until golden.",
+        "Let the muffins cool for about 5 minutes and then turn out onto the counter.",
+        "Mix the powdered sugar, melted butter, maple, and vanilla until it is smooth and reaches the consistency of a thick glaze. You may thin it with cream or milk if necessary.",
+        "Drizzle (or slather) with the icing while the muffins are still warm."
+      ],
+      "name": "Maple Cinnamon Roll Muffins",
+      "sourceLink": "http://www.restlesschipotle.com/2012/03/maple-cinnamon-roll-muffins/",
+      "sourceName": "Restless Chipotle"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 25,
+      "id": 593931,
+      "imageUrl": "https://spoonacular.com/recipeImages/593931-556x370.png",
+      "ingredients": [
+        "2.0 cups of all purpose flour",
+        "1.0 tablespoon of baking powder",
+        "1.25 cups of heavy cream",
+        "0.5 teaspoon of salt",
+        "1.0 teaspoon of xanthan gum"
+      ],
+      "instructions": [
+        "Preheat oven to 425 degrees and place a rack in the top third of oven. [RNL2]",
+        "Whisk the flour, sugar, baking powder, salt and xanthan gum together in a medium-sized mixing bowl.",
+        "Add the heavy cream and stir gently until the dry ingredients are moistened. If it\u2019s too sticky, you can add another \u00bc cup flour. Be careful not to over handle the dough. Fold in the chocolate chips or currants.Turn onto a floured mat and gently roll the dough into a circle that is about \u00be-inch thick.",
+        "Brush with more heavy cream and sprinkle with sugar.",
+        "Cut into 8 triangles and place them one-inch apart on an ungreased baking sheet.",
+        "Bake until golden brown, 12-15 minutes."
+      ],
+      "name": "Gluten-Free Chocolate Chip Cream Scones",
+      "sourceLink": "http://www.musingsofahousewife.com/2014/03/scones.html",
+      "sourceName": "Musings of a House Wife"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 35,
+      "id": 481607,
+      "imageUrl": "https://spoonacular.com/recipeImages/481607-556x370.jpg",
+      "ingredients": [
+        "1.25 c of all purpose flour",
+        "1.5 tsp of baking powder",
+        "0.75 c of brown sugar",
+        "2.0 T of butter",
+        "1.0  of egg",
+        "2.0 T of jelly",
+        "2.0 T of light brown sugar",
+        "0.6666666666666666 c of milk",
+        "0.25 c of peanut butter",
+        "0.125 tsp of salt",
+        "2.0 T of sugar"
+      ],
+      "instructions": [
+        "Preheat oven to 350 degrees.",
+        "Mix dry ingredients: flour, sugar, brown sugar, baking powder, salt",
+        "Mix wet ingredients: milk, egg, peanut butter. Stir until creamy and well combined",
+        "Combine the wet and dry ingredients. Don't over work. Batter will be thick.Reserve 1/2 c of the batter. Put approximately 2 T batter in muffin tin that has been sprayed with non-stick spray.",
+        "Mix 2 T jelly with 1/2 of batter you reserved. Top plain batter with this jelly batter.",
+        "Combine Streusel topping: flour, sugar, brown sugar, salt and butter. I use a fork to work it until combined and crumbly. Sprinkle 1 T topping over muffin batter.",
+        "Bake 18 to 20 minutes or until center is set. Cool 5 minutes in pans before removing."
+      ],
+      "name": "Delicious Peanut Butter and Jelly Muffins",
+      "sourceLink": "http://www.callmepmc.com/2013/07/delicious-peanut-butter-and-jelly-muffins/",
+      "sourceName": "Call Me PMC"
+    },
+    {
+      "cookTimeHours": 1,
+      "cookTimeMinutes": 0,
+      "id": 576789,
+      "imageUrl": "https://spoonacular.com/recipeImages/576789-556x370.jpg",
+      "ingredients": [
+        "1.0 cup of brown sugar",
+        "4.0 tablespoons of butter",
+        "0.25 cup of canola oil",
+        "0.5 cup of dried pineapple",
+        "0.5 cup of honey",
+        "0.25 cup of molasses",
+        "6.0 cups of old fashioned rolled oats",
+        "0.25 cup of orange juice",
+        "1.5 cup of rice krispies cereal",
+        "1.0 teaspoon of salt",
+        "0.25 cup of sweetened coconut flakes",
+        "3.0 teaspoons of vanilla extract",
+        "0.5 cup of walnuts",
+        "1.0 cup of wheat germ"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees F.Using a large bowl, toss the oats with the canola oil, melted butter and salt.",
+        "Spread the mixture out on 2 baking sheets and toast in the oven for 15 to 20 minutes. Use a spoon to stir the oats in the pan halfway through the cooking time.",
+        "Remove from the oven and set aside to cool.Reduce the oven temperature to 325 degrees F.In a medium saucepan set to medium low, combine the brown sugar, honey, orange juice and molasses. Stir until the mixture is combined and smooth.",
+        "Remove from the heat just before it begins to simmer.  Stir in the vanilla.In a large bowl, mix together the toasted oats, rice krispies cereal, wheat germ, walnuts, dried pineapple and coconut.",
+        "Pour in the honey/molasses mixture and stir well. Set aside.Line 1 rimmed baking sheet with aluminum foil. Grease the foil with either butter or oil spray. Press the mixture into the baking sheet.",
+        "Bake until golden, about 20-25 minutes.",
+        "Remove from the oven and let cool. Peel the foil off the bottom and place on a cutting board.",
+        "Cut pieces with a sharp knife, remove from the pan and serve."
+      ],
+      "name": "Tropical Granola Bars",
+      "sourceLink": "http://zagleft.com/food/tropical-granola-bars/",
+      "sourceName": "Zagleft"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 35,
+      "id": 481903,
+      "imageUrl": "https://spoonacular.com/recipeImages/481903-556x370.jpg",
+      "ingredients": [
+        "2.0 cups of all purpose flour",
+        "1.0 tsp of baking powder",
+        "0.25 tsp of baking soda",
+        "8.0 Tablespoons of butter",
+        "0.5 teaspoon of cinnamon",
+        "1.0 cup of dried apricots",
+        "1.0  of egg",
+        "0.3333333333333333 cup of granulated sugar",
+        "0.5 c of greek yogurt",
+        "0.5 cup of honey",
+        "1.0 cup of pecans",
+        "0.5 tsp of salt",
+        "0.5 cup of water"
+      ],
+      "instructions": [
+        "Heat a small sauce pan on medium heat. Toast pecans until they smell fragrant. It will take about 5 minutes, be careful not to scrotch them.",
+        "Remove from heat and set aside.",
+        "Heat oven to 400 degrees.In a large mixing bowl, combine flour, sugar, baking powder, baking soda and salt.",
+        "Cut in butter until mixture has large pea sized crumbles. In a small bowl, stir together yogurt and egg.",
+        "Add to dry ingredients.Carefully stir in dried apricots and pecans.Turn out onto a floured work surface. Knead dough just enough that it sticks together.Form into a 10 inch circle.Using a floured knife, cut dough into wedges.",
+        "Transfer to a parchment lined cookie sheet and bake 20-23 minutes until lightly browned.",
+        "Serve with Apricot Honey Butter",
+        "Place apricots and hot water in a microwave safe bowl. Cover with plastic wrap or paper towel.",
+        "Heat for one minute or until water is steaming hot. (Hot to the touch.) Allow to steep.Allow apricots to cool before mixing with butter or they will melt your butter.Once cool, place apricots in a food processor or blender. (A food processor works much better.)",
+        "Add butter, cinnamon and honey. Puree until smooth. Refrigerate until ready to use."
+      ],
+      "name": "Apricot Pecan Scones with Apricot Honey Butter",
+      "sourceLink": "http://www.callmepmc.com/2014/05/apricot-pecan-scones-apricot-honey-butter/",
+      "sourceName": "Call Me PMC"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 508196,
+      "imageUrl": "https://spoonacular.com/recipeImages/508196-556x370.jpg",
+      "ingredients": [
+        "0.5 cup of agave syrup",
+        "1.0 Tablespoon of baking powder",
+        "15.0 ounce of canned pumpkin puree",
+        "0.5 cup of canola oil",
+        "1.0 teaspoon of cinnamon",
+        "1.0 cup of dried cranberries",
+        "1.5 cups of flour",
+        "0.5 cup of golden raisins",
+        "3.0 Tablespoons of orange juice",
+        "1.0 teaspoon of pumpkin pie spice",
+        "0.5 teaspoon of salt",
+        "0.5 cup of tofu",
+        "1.5 teaspoon of vanilla",
+        "1.5 cups of whole wheat pastry flour"
+      ],
+      "instructions": [
+        "Preheat oven to 350F. Lightly grease a 12-cup muffin pan or line with paper liners.In a large bowl, mix pumpkin puree, agave, canola oil, vanilla, tofu and orange juice.In a separate bowl, sift the flours, baking powder, cinnamon, pumpkin spices, salt.",
+        "Add dry ingredients to the pumpkin mixture and stir just to combined. Fold in cranberries and raisins.Spoon mixture into prepared muffin tin and bake for 20-25 minutes or until a toothpick inserted comes out clean."
+      ],
+      "name": "Pumpkin and Berry Muffins",
+      "sourceLink": "http://citronlimette.com/recipe_archive/desserts/pumpkin-and-berry-muffins/",
+      "sourceName": "Citronlimette"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 5,
+      "id": 584964,
+      "imageUrl": "https://spoonacular.com/recipeImages/584964-556x370.jpg",
+      "ingredients": [
+        "1.0 tsp of agave nectar",
+        "0.5 cup of almond milk",
+        "1.0 tbsp of chia seeds",
+        "2.0 tbsp of dried fruit",
+        "0.25 cup of oats",
+        "1.0 tbsp of pecans"
+      ],
+      "instructions": [
+        "Add all of the ingredients to an 8 ounce jar. Cover with a lid and gently shake until the ingredients are combined.Refrigerate for at least 4 hours, preferably overnight.",
+        "Garnish with fresh fruit, if desired."
+      ],
+      "name": "Overnight Chia Oatmeal with Fruit",
+      "sourceLink": "http://table.io/overnight-chia-oatmeal-fruit/",
+      "sourceName": "Table"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 10,
+      "id": 588806,
+      "imageUrl": "https://spoonacular.com/recipeImages/588806-556x370.jpg",
+      "ingredients": [
+        "1.0  of bananas",
+        "1.0 can of full fat coconut milk",
+        "1.0 tsp of ginger",
+        "1.0 cups of ice",
+        "1.0 c of pineapple chunks",
+        "0.5 cup of pineapple juice",
+        "2.0 servings of unsweetened shredded coconut"
+      ],
+      "instructions": [
+        "Pour the coconut milk and pineapple juice into the blender.",
+        "Add one banana, the pineapple chunks and juice and 1 tsp of the ginger and 1 cup ice. Blend well. Taste add more banana or ginger if desired or more ice for a thicker smoothie. Divide between two glasses and top with the toasted coconut. Drink up!!"
+      ],
+      "name": "Hula Hula Tropical Smoothie",
+      "sourceLink": "http://www.pineappleandcoconut.com/recipes/hula-hula-tropical-smoothie/",
+      "sourceName": "Pineapple and Coconut"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 10,
+      "id": 496086,
+      "imageUrl": "https://spoonacular.com/recipeImages/496086-556x370.jpg",
+      "ingredients": [
+        "2.0  of eggs",
+        "1.0  of garlic clove",
+        "1.0 cup of mixed greens",
+        "2.0 servings of salt and pepper",
+        "1.0  of sandwich bun",
+        "0.25 cup of shredded mozzarella cheese",
+        "2.0  of spaghetti sauce"
+      ],
+      "instructions": [
+        "Separate the sandwich thins and place on a baking sheet.  Slice the end of the garlic clove and rub the cut end on each of the sandwich thins.  The oil in the garlic will give them a light garlic taste.Top each half with a heaping tablespoonful of spaghetti sauce then cheese.",
+        "Place under a broiler and broil until the cheese is melted and the bread is toasted.While the sandwich thins are toasting fry the eggs.  Spray a small frying pan with cooking spray.  Preheat over medium heat.  Crack each egg into pan, cover with lid, and cook until desired consistency.Top each broiled sandwich thin with 1/2 cup mixed greens and fried egg.  Season with salt and pepper.",
+        "Serve."
+      ],
+      "name": "Open Face Italian Egg Sandwiches",
+      "sourceLink": "http://www.budgetgourmetmom.com/open-face-italian-egg-sandwiches/",
+      "sourceName": "Budget Gourmet Mom"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 2,
+      "id": 621208,
+      "imageUrl": "https://spoonacular.com/recipeImages/621208-556x370.jpg",
+      "ingredients": [
+        "2.0 Tbsp of almond butter",
+        "0.25 cup of almond flour",
+        "0.25 tsp of baking soda",
+        "1.0 Tbsp of cocoa powder",
+        "1.0 Tbsp of coconut oil",
+        "0.25 oz of dark chocolate",
+        "1.0  of egg",
+        "0.5 tsp of lemon juice",
+        "3.0 Tbsp of swerve sweetener",
+        "0.25 tsp of vanilla"
+      ],
+      "instructions": [
+        "Lightly grease two 4 1/2\" ramekins.  In a small bowl, combine all of the dry ingredients.",
+        "Add the remaining ingredients (except the dark chocolate) and stir to thoroughly combine.",
+        "Add the dark chocolate and stir to incorporate.Divide the batter evenly into the ramekins and microwave* for 1 minute 20 seconds (up to 1 minute and 30 seconds or until set).  Run a knife along the edge of the ramekins and remove the muffins.",
+        "Serve with butter or ghee.  *Optionally you can bake these muffins at 350 F for 15-17 minutes or until cooked through."
+      ],
+      "name": "Chocolate Muffins in a Minute (Low Carb and Gluten Free)",
+      "sourceLink": "http://holisticallyengineered.com/2013/04/chocolate-muffin-in-a-minute-low-carb.html",
+      "sourceName": "Holistically Engineered"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 20,
+      "id": 583657,
+      "imageUrl": "https://spoonacular.com/recipeImages/583657-556x370.jpg",
+      "ingredients": [
+        "1.5 cup of all purpose flour",
+        "1.5 teaspoons of baking powder",
+        "1.0  of egg",
+        "2.0  of juice of lemon",
+        "1.0  of lemon zest",
+        "1.0 tablespoon of poppy seeds",
+        "1.5 cups of powdered sugar",
+        "0.5 teaspoon of salt",
+        "2.0 tablespoons of sour cream",
+        "0.5 cup of sugar",
+        "6.0 tablespoons of unsalted butter",
+        "0.5 cup of whole milk"
+      ],
+      "instructions": [
+        "If using electric donut maker, preheat. If using donut pans, preheat oven to 350 degrees and grease donut pans. In a small bowl, whisk together milk and sour cream. Set aside. In a small bowl, whisk together flour, baking powder, and salt. Set aside. In large bowl, or stand mixer, cream together butter and sugar, until light and fluffy - about 1 minute.",
+        "Add egg, lemon zest, and poppy seeds. Beat for 30 seconds, scrapping down the bowl as needed. Then alternating flour mixture and milk mixture, combine all ingredients until just combined. Do not over mix.",
+        "Transfer batter into a piping bag, or a ziplock bag with the tip cut off.If using mini donut pans: Fill each donut indention 1/2 full.",
+        "Bake for 6-8 minutes, or until the donuts are slightly browned and spring back when touched.",
+        "Remove from oven, transfer to a cooling rack, and cool completely. If using the electric donut maker: Fill  each donut indention 3/4 full.",
+        "Bake according to manufactures instructions, or until the donuts are slightly browned and spring back when touched."
+      ],
+      "name": "Lemon Poppy Seed Donuts",
+      "sourceLink": "http://www.thenovicechefblog.com/2011/12/lemon-poppy-seed-donuts/",
+      "sourceName": "The Novice Chef Blog"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 10,
+      "id": 497497,
+      "imageUrl": "https://spoonacular.com/recipeImages/497497-556x370.jpg",
+      "ingredients": [
+        "0.25  of avocado",
+        "2.0 tbsp of black beans",
+        "1.0 tbsp of corn",
+        "1.0  of corn tortilla",
+        "1.0 tsp of cotija cheese",
+        "2.0  of eggs",
+        "1.0 serving of fresh cilantro",
+        "2.0  of grape tomatoes",
+        "0.5  of green onion",
+        "2.0 tsp of milk",
+        "1.0 serving of sea-salt"
+      ],
+      "instructions": [
+        "Heat a skillet coated with cooking spray over medium high heat.",
+        "Combine the eggs with the milk then season with sea salt and freshly cracked pepper, to taste.",
+        "Whisk until smooth.",
+        "Pour the egg mixture into the skillet. Constantly fold the egg mixture from the bottom of the pan to the top. This will keep them from overcooking and the middle section will stay soft and fluffy. Do this constantly for 1 or 2 minutes, or until the eggs are set.  Do not overcook.",
+        "Remove from heat.While the eggs are cooking, heat the black beans and corn in the microwave until hot, about 20 seconds. Wrap a tortilla in a dish towel then place into the microwave for 20 seconds or until warm and pliable.",
+        "Place the beans and corn down the center of the warm tortilla then top with the scrambled eggs, slices of avocado, tomato, green onion, cotija cheese, and fresh cilantro.",
+        "Roll into a burrito then place on a plate seam side down.",
+        "Serve with salsa. Enjoy."
+      ],
+      "name": "Huevos Rancheros Breakfast Burrito",
+      "sourceLink": "http://www.fortheloveofcooking.net/2013/09/huevos-rancheros-breakfast-burrito.html",
+      "sourceName": "For the Love of Cooking"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 32,
+      "id": 549051,
+      "imageUrl": "https://spoonacular.com/recipeImages/549051-556x370.jpg",
+      "ingredients": [
+        "1.0 tsp of baking powder",
+        "1.0 tsp of baking soda",
+        "1.0 cup of blueberries",
+        "0.5 cup of butter",
+        "1.0  of egg",
+        "2.0 cups of flour",
+        "0.25 cup of lemon juice",
+        "2.0 tsp of lemon zest",
+        "0.25 tsp of salt",
+        "1.25 cup of sour cream",
+        "0.75 cup of sugar",
+        "1.0 tsp of vanilla extract"
+      ],
+      "instructions": [
+        "Preheat oven to 375 degrees. Grease or line a 12-cup muffin tin; set aside.In a large bowl, whisk together flour, sugar, baking soda, baking powder and salt.In a separate bowl, stir together melted butter, sour cream, vanilla, egg, lemon zest and lemon juice.",
+        "Add to dry ingredients and stir until just incorporated. Fold in blueberries.Spoon batter into prepared muffin tin.",
+        "Bake for 18-22 minutes, until golden brown and tops spring back when lightly pressed."
+      ],
+      "name": "Lemon-Blueberry Sour Cream Muffins",
+      "sourceLink": "http://foodess.com/2013/05/lemon-blueberry-sour-cream-muffins/",
+      "sourceName": "Foodess"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 586484,
+      "imageUrl": "https://spoonacular.com/recipeImages/586484-556x370.jpg",
+      "ingredients": [
+        "1.0 tablespoon of baking powder",
+        "0.5 teaspoon of baking soda",
+        "16.0 ounces of blueberries",
+        "4.0  of eggs",
+        "1.3333333333333333 cup of flour",
+        "2.0 cups of fresh ricotta cheese",
+        "1.0 tablespoon of lemon juice",
+        "1.0 tablespoon of lemon zest",
+        "0.6666666666666666 cup of plain yogurt",
+        "0.5 teaspoon of salt",
+        "0.75 cup of sugar",
+        "1.0 cup of water",
+        "1.5 cup of whole milk"
+      ],
+      "instructions": [
+        "Separate egg yolks and whites.",
+        "Add whites to small bowl. Set aside until needed.",
+        "Whisk yolks, ricotta, yogurt and lemon zest in a large bowl. In another bowl whisk flour, baking powder, salt and baking soda.",
+        "Add flour mixture to yolk mixture and stir until combined. Stir in milk. Using an electric mixer beat egg whites until soft peaks form. Fold egg whites into batter.Cook on hot griddle.For sauce, add all ingredients to a large pan and cook over medium heat until thick."
+      ],
+      "name": "Lemon Ricotta Pancake with Blueberry Sauce",
+      "sourceLink": "http://www.nutmegnanny.com/2012/04/16/lemon-ricotta-pancakes-with-blueberry-sauce/",
+      "sourceName": "Nutmeg Nanny"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 20,
+      "id": 475456,
+      "imageUrl": "https://spoonacular.com/recipeImages/475456-556x370.jpg",
+      "ingredients": [
+        "8.0 slices of bread",
+        "4.0 servings of butter",
+        "2.0  of eggs",
+        "1.0 teaspoon of ground cinnamon",
+        "1.0 cup of half & half",
+        "1.0 pinch of salt",
+        "1.0 tablespoon of sugar",
+        "1.0 teaspoon of vanilla"
+      ],
+      "instructions": [
+        "Place four slices of bread in a 13x9 rectangular baking dish.Melt about 1 tablespoon of butter on a griddle or in a large skillet over low to medium heat.",
+        "Whisk together eggs, milk, salt, sugar, vanilla, and cinnamon.",
+        "Pour half of liquid mixture over bread slices in baking dish.",
+        "Place bread slices on griddle and cook until golden browned on each side.",
+        "Serve immediately or keep warm in oven until ready to serve, but no longer than about 30 minutes.",
+        "Serve with your favorite maple syrup, sauteed fruit topping or whipped cream."
+      ],
+      "name": "French Toast",
+      "sourceLink": "http://addapinch.com/cooking/2011/03/05/french-toast/",
+      "sourceName": "Add A Pinch"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 548139,
+      "imageUrl": "https://spoonacular.com/recipeImages/548139-556x370.jpg",
+      "ingredients": [
+        "1.0 teaspoon of baking powder",
+        "0.25 teaspoon of baking soda",
+        "1.0 cup of buttermilk",
+        "1.0 tablespoon of canola oil",
+        "0.25 teaspoon of cinnamon",
+        "1.0  of egg",
+        "0.5 cup of mango",
+        "4.0 servings of maple syrup",
+        "0.5 cup of raspberries",
+        "0.5 teaspoon of salt",
+        "1.5 tablespoons of sugar",
+        "1.0 teaspoon of vanilla extract",
+        "1.0 cup of whole wheat flour"
+      ],
+      "instructions": [
+        "In a medium bowl, whisk together the flour, sugar, baking powder, baking soda, salt, and cinnamon. Set aside.",
+        "In a large glass measuring cup or small bowl, whisk together buttermilk, canola oil, egg , and vanilla extract.",
+        "Pour wet ingredients over the dry ingredients.",
+        "Whisk until combined. Don't over mix. Gently fold in the raspberries and mango chunks.",
+        "Heat a griddle pan or non stick skillet over medium heat. Spray with cooking spray.",
+        "Pour about 1/4 of a cup of pancake batter onto the hot griddle pan, spacing out the pancakes a few inches from each other. When the pancakes start to bubble up, flip and cook until pancakes are lightly browned.",
+        "Serve pancakes warm with maple syrup and extra raspberries and mango chunks, if desired."
+      ],
+      "name": "Whole Wheat Raspberry & Mango Pancakes",
+      "sourceLink": "http://www.twopeasandtheirpod.com/whole-wheat-raspberry-mango-pancakes/",
+      "sourceName": "Two Peas and Their Pod"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 35,
+      "id": 512635,
+      "imageUrl": "https://spoonacular.com/recipeImages/512635-556x370.jpg",
+      "ingredients": [
+        "0.3333333333333333 cup of agave nectar",
+        "0.5 cup of almond milk",
+        "1.5 teaspoons of baking powder",
+        "0.5 cup of blueberries",
+        "0.5 cup of brown rice flour",
+        "0.5 cup of chocolate chunks",
+        "0.5 cup of coconut flour",
+        "1.0  of egg",
+        "1.0 cup of full-fat coconut milk",
+        "0.5 teaspoon of salt",
+        "1.0 teaspoon of vanilla extract"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees F and lightly oil a muffin pan.In a mixing bowl, whisk together the egg, coconut milk, agave nectar and vanilla extract.In a seperate bowl, stir together the brown rice flour, coconut flour, baking powder, and salt.",
+        "Pour the dry mixture into the wet and mix to combine.Fold the blueberries and chocolart chunks into the batter.Fill 6 muffin holes with batter and bake for 30 to 35 minutes until a toothpick tests clean.",
+        "Let muffins sit 10 minutes, then run a knife around the edges to help pop the muffins out of the pan.Feed your muffin top!"
+      ],
+      "name": "Gluten Free Blueberry Chocolate Chunk Muffins",
+      "sourceLink": "http://www.theroastedroot.net/gluten-free-blueberry-chocolate-chunk-muffins/",
+      "sourceName": "The Roasted Root"
+    },
+    {
+      "cookTimeHours": 4,
+      "cookTimeMinutes": 0,
+      "id": 665953,
+      "imageUrl": "https://spoonacular.com/recipeImages/665953-556x370.jpg",
+      "ingredients": [
+        "60.0 gm of butter",
+        "17.5 oz of cherries",
+        "3.0 Tbsp of cornstarch",
+        "0.5 cup of cr\u00e8me fra\u00eeche",
+        "3.0  of egg yolks",
+        "2.0  of eggs",
+        "2.5 cups of flour",
+        "1.5 tsp of ground cinnamon",
+        "0.5 cup of heavy cream",
+        "1.5 tsp of instant yeast",
+        "0.5  of juice of lemon",
+        "0.25 cup of milk",
+        "0.5  of vanilla bean",
+        "5.0 Tbsp of white sugar"
+      ],
+      "instructions": [
+        "To make the Cherry Syrup: Sprinkle the sugar over bottom of a large saucepan over medium heat.",
+        "Heat until the sugar begins to melt (1-2 minutes).",
+        "Add the thawed cherries, lemon juice and cornstarch and cook, stirring occasionally, until clear and syrupy about 5-8 minutes.",
+        "Remove from heat, remove half the cherries with a slotted spoon and coarsely chop. Set aside chopped cherries for use in the bread. Refrigerate the remaining whole cherries in syrup in an airtight container until required.To make the Cherry Bread: Warm milk in a small saucepan over low heat until lukewarm.",
+        "Combine yeast and half the milk in a large bowl or the bowl of a stand mixer fitted with a dough hook. Stir to dissolve and stand in a warm place until foamy (8-10 minutes).",
+        "Whisk remaining milk with yolks in a bowl and set aside.",
+        "Add the flour, sugar, cinnamon and a pinch of salt to the bowl/mixer with the yeast and milk mixture.",
+        "Add the yolk mixture and knead on medium speed until a smooth dough forms, about 4-5 minutes. While mixing, gradually add the butter and beat until dough is elastic and pulls away from sides of bowl, about 8-10 minutes (you may need to add a bit more flour).",
+        "Transfer the dough to a lightly buttered bowl, cover and stand until doubled in size, about 1 1/2 to 2 hours.",
+        "Remove dough to a lightly floured surface.",
+        "Roll out to a 15cm x 23cm (6-inch x 9-inch) rectangle and scatter the reserved chopped cherries over the dough.",
+        "Roll to form a long cylinder, place in a greased  11cm x 24cm (4 x 8-inch) loaf tin. Cover and let stand until doubled in size, about 30-60 minutes. Meanwhile, preheat oven to 180C. (350 F.) Before placing loaf in the oven,",
+        "Brush with egg wash and sprinkle generously with demerara or white sugar.",
+        "Bake until golden brown and cooked through, about 30-40 minutes. (*Check at about 25 minutes and cover loosely with foil if loaf is browned enough). Allow bread to cool slightly in tin, then remove from pan to cool completely on a wire rack. Cherry loaf can be prepared 2 days ahead and refrigerated or further ahead and frozen. Be sure to wrap well in plastic wrap and then foil. If freezing, thaw in the fridge (wrapped) overnight.To Make the Vanilla Cream: In a medium saucepan over medium-high heat, bring the cream, milk, vanilla bean seeds (or paste) to a boil.",
+        "Remove from heat and allow to stand for 5 minutes. Meanwhile, in a small bowl, whisk the egg yolks, sugar and cornstarch until smooth. Return the cream mixture to medium-high heat and return to just below boiling over medium-high heat.",
+        "Remove from heat and very slowly (a drop at a time at first), add to the bowl with the yolk/sugar mixture while whisking continuously to combine. Continue until all the milk mixture is added and then return the whole mixture back to the saucepan and over medium heat, whisk continuously until thick (4-6 minutes)."
+      ],
+      "name": "Cherry French Toast with Vanilla Cream",
+      "sourceLink": "http://www.seasonsandsuppers.ca/cherry-french-toast-vanilla-cream/",
+      "sourceName": "Seasons and Suppers"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 5,
+      "id": 624510,
+      "imageUrl": "https://spoonacular.com/recipeImages/624510-556x370.jpg",
+      "ingredients": [
+        "2.0 cups of berry",
+        "2.0 cups of granola",
+        "4.0  of strawberry yogurt"
+      ],
+      "instructions": [
+        "In a mixing bowl add the berries and with a fork mash them slightly. Divide the fruit mixture and add to each yogurt container and mix.In a parfait glass, or any glass, place 2-3 tablespoons of yogurt followed by some granola. Repeat layer and end with granola.",
+        "Serve immediately."
+      ],
+      "name": "Fruit and yogurt parfait",
+      "sourceLink": "http://www.eatgood4life.com/fruit-yogurt-parfait/",
+      "sourceName": "Eat Good 4 Life"
+    },
+    {
+      "cookTimeHours": 1,
+      "cookTimeMinutes": 40,
+      "id": 458311,
+      "imageUrl": "https://spoonacular.com/recipeImages/458311-556x370.jpg",
+      "ingredients": [
+        "5.0  of eggs",
+        "0.125 teaspoon of garlic powder",
+        "8.0 servings of ground pepper",
+        "2.0 pound of hash brown potatoes",
+        "0.5 cup of milk",
+        "1.0  of onion",
+        "0.5 teaspoon of onion powder",
+        "1.0 pound of pork sausage",
+        "12.0 ounces of shredded cheddar cheese"
+      ],
+      "instructions": [
+        "Preheat oven to 350 degrees F (175 degrees C). Grease a 2 quart baking dish.",
+        "Place the hash brown potatoes in the bottom of the baking dish.",
+        "Heat a skillet over medium heat and cook and stir the sausage and onion until the sausage is crumbly, evenly browned, and no longer pink; drain. Meanwhile, whisk together the eggs, milk, onion powder, garlic powder, salt, and pepper, and pour over the potatoes. Layer with half the Cheddar cheese, the sausage mixture, and the remaining Cheddar cheese. Cover with aluminum foil.",
+        "Bake in the preheated oven for 1 hour.",
+        "Remove cover; return casserole to the oven and bake until a knife inserted into the center comes out clean, about 10 minutes.",
+        "Let stand for 5 minutes before serving."
+      ],
+      "name": "Hash Brown and Egg Casserole",
+      "sourceLink": "http://allrecipes.com/Recipe/Hash-Brown-and-Egg-Casserole/",
+      "sourceName": "Allrecipes"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 20,
+      "id": 588575,
+      "imageUrl": "https://spoonacular.com/recipeImages/588575-556x370.jpg",
+      "ingredients": [
+        "0.5 cup of almond flour",
+        "0.25 teaspoon of baking soda",
+        "0.5 tablespoon of cinnamon",
+        "2.0 tablespoons of coconut flour",
+        "0.75 cup of egg whites",
+        "1.0 tablespoon of ground flax seed",
+        "2.0 tablespoons of honey",
+        "1.0 teaspoon of pumpkin pie spice",
+        "0.5 cup of pumpkin puree",
+        "1.0 pinch of salt",
+        "0.5 teaspoon of vanilla extract",
+        "2.0 tablespoons of vanilla protein powder"
+      ],
+      "instructions": [
+        "Heat a pancake griddle over medium heat.",
+        "Combine dry ingredients in a bowl.",
+        "Whisk together wet ingredients in a small bowl.",
+        "Add wet to dry ingredients and stir together.",
+        "Add enough coconut oil to the pan to grease the center.",
+        "Pour batter in approximately \u00bc cupfuls onto pan and spread out into pancake shape (the batter will be a bit thick and need some help to form a circle)Cook for about 3-4 minutes on the first side, carefully flip and cook for another 1-2 minutes on the second side.Repeat with remaining batter, adding more coconut oil to the pan as needed"
+      ],
+      "name": "Pumpkin paleo pancakes (that actually taste good)",
+      "sourceLink": "http://www.runningtothekitchen.com/2012/10/pumpkin-paleo-pancakes-that-actually-taste-good/",
+      "sourceName": "Running to the Kitchen"
+    },
+    {
+      "cookTimeHours": 0,
+      "cookTimeMinutes": 45,
+      "id": 560446,
+      "imageUrl": "https://spoonacular.com/recipeImages/560446-556x370.jpg",
+      "ingredients": [
+        "1.5 tsp of baking powder",
+        "0.25 tsp of baking soda",
+        "2.0  of bananas",
+        "0.75 cup of brown sugar",
+        "1.0 stick of butter",
+        "0.5 cup of chocolate chips",
+        "1.5 tsp of cinnamon",
+        "2.0  of eggs",
+        "2.25 cup of flour",
+        "0.5 tsp of salt",
+        "1.5 cup of strawberries",
+        "1.0 tsp of vanilla"
+      ],
+      "instructions": [
+        "Preheat oven to 350 F degrees. Butter the muffin tray, or use muffin liners.Clean and dice the strawberries.In a large bowl, add the flour, baking soda, baking powder, cinnamon, strawberries and chocolate chips and mix together.In another medium bowl, mash the bananas using a for or potato masher.To the bananas add the eggs, melted butter, brown sugar and vanilla extract and whisk everything together.",
+        "Pour the wet mixture over the dry mixture and slowly mix the went mixture into the flour mixture. Don\u00e2\u20ac\u2122t over mix.Spoon a large spoonful of the batter into each muffin liner.",
+        "Bake for 30 minutes or until baked through. You can test it by sticking a toothpick into a muffin and it should come out clean."
+      ],
+      "name": "Strawberry Banana Chocolate Chip Muffins",
+      "sourceLink": "http://www.jocooks.com/bakery/strawberry-banana-chocolate-chip-muffins/",
+      "sourceName": "Jo Cooks"
+    },
+    {
+      "cookTimeHours": 1,
+      "cookTimeMinutes": 5,
+      "id": 489505,
+      "imageUrl": "https://spoonacular.com/recipeImages/489505-556x370.jpg",
+      "ingredients": [
+        "0.25 cup of unsweetened applesauce",
+        "0.75 cup of brown sugar",
+        "0.5 cup of chocolate chips",
+        "2.0 tsp of cinnamon",
+        "2.5 cups of crisp rice cereal",
+        "0.5 cup of dried cranberries",
+        "0.25 tsp of ground ginger",
+        "0.25 cup of maple syrup",
+        "0.25 tsp of nutmeg",
+        "0.5 cup of pumpkin puree",
+        "0.5 cup of pumpkin seeds",
+        "3.5 cups of rolled oats",
+        "0.75 tsp of salt",
+        "1.0 tsp of vanilla"
+      ],
+      "instructions": [
+        "Preheat oven to 325 degrees. Prepare a large baking sheet with parchment paper or a silpat liner.In a large bowl mix together oats and Rice Krispies. In a separate bowl combine cinnamon, nutmeg, ginger, salt, brown sugar, pumpkin puree, applesauce, maple sryrup and vanilla.",
+        "Mix until smooth.",
+        "Pour mixture over the oats, and stir until everything is evenly coated.",
+        "Spread onto baking sheet.",
+        "Bake for 30 minutes, stir the oats, bake for an additional 30 minutes. Cool on a wire rack. Once cool mix in dried cranberries, pumpkin seeds, and chocolate chips. Store in an air tight container."
+      ],
+      "name": "Pumpkin Spiced Granola",
+      "sourceLink": "http://dinnersdishesanddesserts.com/pumpkin-spiced-granola/",
+      "sourceName": "Dinners Dishes and Desserts"
     }
   ]
 }
