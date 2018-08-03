@@ -32,3 +32,8 @@ pip install -r requirements.txt;
 ```
 FLASK_APP=app.py flask run --port 4000;
 ```
+
+# Reformat files
+```
+autopep8 -i -a -a -a app.py;
+```
