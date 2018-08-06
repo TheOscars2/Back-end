@@ -106,3 +106,4 @@ venv.bak/
 
 # Gunicorn directory
 run/
+.DS_Store
