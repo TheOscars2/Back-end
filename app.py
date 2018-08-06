@@ -47,11 +47,9 @@ def readPLU():
 # saving barcode
 
 
-@app.route('/barcode/<code>/<item>', methods=['POST'])
+@app.route('/barcode/<code>/<item>', methods=['GET'])
 def saveBarcode(code, item):
     barcodes = readBarcode()
-    print(code)
-    print(item)
     if code not in barcodes:
         barcodes[code] = item
         with open('data_sources/barcode.json', 'w') as f:
