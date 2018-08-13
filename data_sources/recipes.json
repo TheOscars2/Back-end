@@ -2173,28 +2173,6 @@
       "sourceName": "Vegetarian Times"
     },
     {
-      "cookTimeHours": 0,
-      "cookTimeMinutes": 45,
-      "id": 504462,
-      "imageUrl": "https://spoonacular.com/recipeImages/504462-556x370.jpg",
-      "ingredients": [
-        "0.5 cup of dried cranberries",
-        "2.0 cups of orange juice",
-        "1.0 cup of steel cut oats",
-        "0.5 cup of sugar",
-        "1.0 tsp of vanilla",
-        "2.0 cups of water"
-      ],
-      "instructions": [
-        "Spray inside of the crock with cooking spray.Stir together all ingredients in a bowl.",
-        "Pour into crock.Cook on low 4-5 hours.",
-        "Serve with milk."
-      ],
-      "name": "Slow Cooker Cranberry Orange Oatmeal",
-      "sourceLink": "http://eatathomecooks.com/2013/10/slow-cooker-cranberry-orange-oatmeal.html",
-      "sourceName": "Eat at Home Cooks"
-    },
-    {
       "cookTimeHours": 3,
       "cookTimeMinutes": 20,
       "id": 732906,
@@ -14102,32 +14080,6 @@
       "name": "S\u2019mores Bread Pudding",
       "sourceLink": "https://www.hummusapien.com/smores-bread-pudding/",
       "sourceName": "Hummusapien"
-    },
-    {
-      "cookTimeHours": 0,
-      "cookTimeMinutes": 45,
-      "id": 558879,
-      "imageUrl": "https://spoonacular.com/recipeImages/558879-556x370.jpg",
-      "ingredients": [
-        "1.5 cups of all purpose flour",
-        "0.5 tsp of almond extract",
-        "2.0 cups of bittersweet chocolate chips",
-        "0.5 tsp of sea salt",
-        "0.5 cup of sugar",
-        "1.0 cup of sweetened shredded coconut",
-        "12.0 tbsp of unsalted butter"
-      ],
-      "instructions": [
-        "Either in a stand mixer fitted with the paddle attachment or in a bowl with a hand mixer, whip the butter on medium speed for about 30 seconds to spread it around the bowl. With the mixer still on medium, add the sugar. Cream the butter and sugar together for 30-60 seconds on medium, until the two have been combined.",
-        "Mix in the sea salt and almond extract.",
-        "Add the flour all at once and take care to only mix the flour with the wet ingredients until just combined. Be careful not to overmix. The dough will be crumbly and that's perfect.Dump the crumbly shortbread out onto a big piece of plastic wrap and shape it into a rectangle. It should clump together smoothly. Refrigerate the dough for at least one hour, but two or three hours is better if you have the time.After the dough has chilled, preheat the oven to 350 degrees F. Once preheated, place the coconut on a sheet pan and place it in the oven, giving the coconut a stir every 5 minutes or so. The coconut can take between 5 and 15 minutes to take on color, and it's ready to be removed from the oven when it's a golden brown color.Lightly flour your countertop and roll the chilled shortbread out to about an 1/8 to 1/4 inch thickness. Use a cookie cutter to cut out shapes and place the cutouts on a baking sheet.",
-        "Bake the cookies for 13-17 minutes, depending on how brown you like your shortbread. My husband likes soft shortbread with no color (13 minutes), and I like the shortbread golden brown and crisp (17 minutes).",
-        "Let the cookies cool completely, then dip half the cookie in the chocolate and sprinkle it with the toasted coconut.",
-        "Let the chocolate harden and enjoy!"
-      ],
-      "name": "Toasted Coconut Shortbread Cookies",
-      "sourceLink": "http://www.fifteenspatulas.com/toasted-coconut-shortbread-cookies/",
-      "sourceName": "Fifteen Spatulas"
     },
     {
       "cookTimeHours": 2,
