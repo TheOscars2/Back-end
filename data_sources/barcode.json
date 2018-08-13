@@ -1,12 +1,24 @@
 {
+  "014054030883": "Odwalla Strawberry Banana",
+  "014054031088": "Odwalla Orange",
+  "038000845529": "Pringles",
+  "044000011703": "Oreo Mini",
+  "049000004632": "Coca Cola",
+  "052000121964": "Gatorade (Fruit Punch)",
+  "075140005024": "water",
+  "078783508020": "carrot",
   "111111111111": "apple",
   "111111111112": "sun chips",
-  "111111111129": "teryaki",
   "111111111113": "water",
   "111111111114": "flour",
   "111111111115": "eggs",
-  "852311004006": "bai",
   "111111111116": "chicken breast",
-  "075140005024": "water",
-  "078783508020": "carrot"
+  "111111111129": "teryaki",
+  "184739000118": "Hint Water",
+  "184739000316": "Hint Watermelon",
+  "184739001047": "Hint Green Apple",
+  "184739001276": "Hint Pineapple",
+  "852311004006": "bai",
+  "853722005132": "Dried Mango",
+  "null": "yellow onion"
 }
